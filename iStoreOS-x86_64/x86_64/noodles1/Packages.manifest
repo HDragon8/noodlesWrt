@@ -1,0 +1,1622 @@
+Package: UnblockNeteaseMusic-Go
+Version: 0.2.13-1
+Depends: libc
+Source: feeds/noodles1/UnblockNeteaseMusic-Go
+SourceName: UnblockNeteaseMusic-Go
+License: GPL-3.0
+Section: multimedia
+SourceDateEpoch: 1691980979
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 2711970
+Filename: UnblockNeteaseMusic-Go_0.2.13-1_x86_64.ipk
+Size: 2707184
+SHA256sum: 0436b6e23dc84f8bfa84ad5ddd8f5d9c93aea9968378f9ac414553617af35b4a
+Description:  Revive Netease Cloud Music (Golang)
+
+Package: UnblockNeteaseMusic
+Version: 0.27.0-2022-10-09-253dc893-1
+Depends: libc, node
+Source: feeds/noodles1/UnblockNeteaseMusic
+SourceName: UnblockNeteaseMusic
+License: LGPL-3.0-only
+Section: multimedia
+SourceDateEpoch: 1691980979
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: all
+Installed-Size: 279529
+Filename: UnblockNeteaseMusic_0.27.0-2022-10-09-253dc893-1_all.ipk
+Size: 280474
+SHA256sum: 331dc21402d9f7d2a93559e6047348dde705738f5bd1ddba19ebe0da1f2302b5
+Description:  Revive Netease Cloud Music (NodeJS)
+
+Package: adbyby
+Version: 2.7-20200315
+Depends: libc
+Source: feeds/noodles1/adbyby
+SourceName: adbyby
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: x86_64
+Installed-Size: 401266
+Filename: adbyby_2.7-20200315_x86_64.ipk
+Size: 402046
+SHA256sum: b76b004bbaecb60f835b155dacb0ec6a328b299fe74f1b250da676b321d06094
+Description:  Adbyby is a powerful adblock module to block ad,just like adblock.
+
+Package: alist
+Version: 3.26.0-2
+Depends: libc, ca-bundle
+Source: feeds/noodles1/alist
+SourceName: alist
+License: GPL-3.0
+Section: net
+SourceDateEpoch: 1692766236
+Maintainer: sbwml <admin@cooluc.com>
+Architecture: x86_64
+Installed-Size: 16892129
+Filename: alist_3.26.0-2_x86_64.ipk
+Size: 16819168
+SHA256sum: 2566299085264dce3554f409da5f3f2fcf997b49d0f2dafbd5da25d9f231b4ae
+Description:  A file list program that supports multiple storage, powered by Gin and Solidjs.
+
+Package: aliyundrive-fuse
+Version: 0.1.14-1
+Depends: libc, fuse-utils
+Source: feeds/noodles1/aliyundrive-fuse
+SourceName: aliyundrive-fuse
+License: MIT
+Section: multimedia
+SourceDateEpoch: 1691980979
+Maintainer: messense <messense@icloud.com>
+Architecture: x86_64
+Installed-Size: 2086502
+Filename: aliyundrive-fuse_0.1.14-1_x86_64.ipk
+Size: 2087478
+SHA256sum: 4aad80459bf5977a57778db7c3d162033225bc12ecacb744c3ac12de808e2900
+Description:  FUSE for AliyunDrive.
+
+Package: appfilter
+Version: 5.0.2-1
+Depends: libc, libubox20220515, libubus20220601, libuci20130104, libpthread, libjson-c5, libblobmsg-json20220515
+Source: feeds/noodles1/open-app-filter
+SourceName: appfilter
+Section: Derry Apps
+SourceDateEpoch: 1691980979
+Architecture: x86_64
+Installed-Size: 18819
+Filename: appfilter_5.0.2-1_x86_64.ipk
+Size: 19596
+SHA256sum: 257b0ebdd1559e98f8c8d21b905f518ef1760df22bd9285c5f4a5c571d83f7d1
+Description:  open appfilter app
+
+Package: autocore-x86
+Version: 1-43
+Depends: libc, bc, lm-sensors, ethtool
+Source: feeds/noodles1/autocore
+SourceName: autocore-x86
+Section: opt
+SourceDateEpoch: 1692250963
+Maintainer: Lean
+Architecture: x86_64
+Installed-Size: 1425
+Filename: autocore-x86_1-43_x86_64.ipk
+Size: 2170
+SHA256sum: d623ba98a39b3febbe1b40273d4e5acdda04e2a0441ea74f61208cc4bb83c5d8
+Description:  A usb autoconfig hotplug script.
+
+Package: chinadns-ng
+Version: 2023.06.01-1
+Depends: libc, ipset
+Source: feeds/noodles1/chinadns-ng
+SourceName: chinadns-ng
+License: AGPL-3.0-only
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: pexcn <i@pexcn.me>
+Architecture: x86_64
+Installed-Size: 29639
+Filename: chinadns-ng_2023.06.01-1_x86_64.ipk
+Size: 30389
+SHA256sum: 8e9717f365c7f688ae2ec302ccee585d72e2488b7d7645c60e14b227d2964154
+Description:  ChinaDNS next generation, refactoring with epoll and ipset.
+
+Package: ddnsto
+Version: 3.0.4-x86_64-7
+Depends: libc
+Source: feeds/noodles1/ddnsto
+SourceName: ddnsto
+Section: net
+SourceDateEpoch: 1692973593
+Architecture: all
+Installed-Size: 1627502
+Filename: ddnsto_3.0.4-x86_64-7_all.ipk
+Size: 1626993
+SHA256sum: c712c059afcad6ea442c16f59acbd30f71cb175496a2e7b7ca1d62c66f92ec09
+Description:  DDNS.to is a reverse proxy
+
+Package: dns2socks
+Version: 2.1-2
+Depends: libc, libpthread
+Source: feeds/noodles1/dns2socks
+SourceName: dns2socks
+License: BSD-3-Clause
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: ghostmaker
+Architecture: x86_64
+Installed-Size: 10402
+Filename: dns2socks_2.1-2_x86_64.ipk
+Size: 11177
+SHA256sum: 8a81048869f4e853ceeb49f5fe8ea398d45fc6b213a1c98463cf174629723544
+Description:  This is a command line utility to resolve DNS requests via
+ a SOCKS tunnel like Tor or a HTTP proxy.
+
+Package: dns2tcp
+Version: 1.1.0-1
+Depends: libc
+Source: feeds/noodles1/dns2tcp
+SourceName: dns2tcp
+License: AGPL-3.0-only
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 11748
+Filename: dns2tcp_1.1.0-1_x86_64.ipk
+Size: 12541
+SHA256sum: 44a0fb450afcbf4077eaad5aae60ea120baf84539da9e6b40100bf41f0ca9f08
+Description:  utility to convert dns query from udp to tcp
+
+Package: ffmpeg-remux
+Version: 4.3.3-1
+Depends: libc, libpthread, zlib, libbz2-1.0
+Source: feeds/noodles1/ffmpeg-remux
+SourceName: ffmpeg-remux
+License: LGPL-2.1-or-later GPL-2.0-or-later LGPL-3.0-or-later
+LicenseFiles: COPYING.GPLv2 COPYING.GPLv3 COPYING.LGPLv2.1 COPYING.LGPLv3
+Section: multimedia
+SourceDateEpoch: 1691980979
+CPE-ID: cpe:/a:ffmpeg:ffmpeg
+Maintainer: Ted Hess <thess@kitschensync.net>, Ian Leonard <antonlacon@gmail.com>
+Architecture: x86_64
+Installed-Size: 2017807
+Filename: ffmpeg-remux_4.3.3-1_x86_64.ipk
+Size: 2013468
+SHA256sum: b387b42a7462c9b0c074515017e92b2b6551d1a451b5a4fd2e5f6596cfa5033d
+Description:  FFmpeg remux only program
+
+Package: iS-default-settings
+Version: 1.2-1
+Depends: libc, luci-lib-base, luci
+Source: feeds/noodles1/iS-default-settings
+SourceName: iS-default-settings
+License: GPL-3.0
+Section: luci
+SourceDateEpoch: 1693140026
+Architecture: all
+Installed-Size: 3712
+Filename: iS-default-settings_1.2-1_all.ipk
+Size: 4422
+SHA256sum: f224de048758a9cfbe82a3488c1fc9dabe7b890ef4302716aab7afb0b860d468
+Description:  LuCI support for Default Settings
+
+Package: ipt2socks
+Version: 1.1.3-3
+Depends: libc, libpthread
+Source: feeds/noodles1/ipt2socks
+SourceName: ipt2socks
+License: AGPL-3.0
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: x86_64
+Installed-Size: 27140
+Filename: ipt2socks_1.1.3-3_x86_64.ipk
+Size: 27901
+SHA256sum: a5dc1aec4fd0577951d1e5e9c3d85c276730e3a55e529a9c72b77fe6181029af
+Description:  Utility for converting iptables (redirect/tproxy) to socks5.
+
+Package: iptvhelper
+Version: 0.1.1-1
+Depends: libc, ipset, iptables
+Source: feeds/noodles1/iptvhelper
+SourceName: iptvhelper
+License: GPL-3.0
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: Shun Li <riverscn@gmail.com>
+Architecture: all
+Installed-Size: 1817
+Filename: iptvhelper_0.1.1-1_all.ipk
+Size: 2653
+SHA256sum: e4edc1b896c0bcad5ec79b88b61c3fc5c8d9e6f3b4b723554277a840ec307465
+Description:  Scripts for configure IPTV easily
+
+Package: ipv6helper
+Version: 1.0-2
+Depends: libc, luci-proto-ipv6, wget, ip6tables, libip6tc2, kmod-ipt-nat6, odhcpd-ipv6only, odhcp6c, 6in4
+Source: feeds/noodles1/ipv6-helper
+SourceName: ipv6helper
+License: GPLv3
+LicenseFiles: LICENSE
+Section: ipv6
+SourceDateEpoch: 1691980979
+Maintainer: LEAN
+Architecture: all
+Installed-Size: 410
+Filename: ipv6helper_1.0-2_all.ipk
+Size: 1315
+SHA256sum: a78c92227d7d39df171773ceb0a339e02621ea226121abfad2cce3f8f0ab78ee
+Description:  IPv6 Helper and Dynamic Update he.net of ip
+
+Package: linkease
+Version: 1.2.3-x86_64-2
+Depends: libc, ffmpeg-remux
+Source: feeds/noodles1/linkease
+SourceName: linkease
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 16354868
+Filename: linkease_1.2.3-x86_64-2_all.ipk
+Size: 16345275
+SHA256sum: 5674ae9c953d3c9c9d7c9b7485d1fe072c28913fff0efdf9b31c863ce2e6c2dc
+Description:  LinkEase is a file cloud
+
+Package: lua-neturl
+Version: 1.1-1-3
+Depends: libc, lua
+Source: feeds/noodles1/lua-neturl
+SourceName: lua-neturl
+License: MIT
+Section: lang
+SourceDateEpoch: 1691980979
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: all
+Installed-Size: 4538
+Filename: lua-neturl_1.1-1-3_all.ipk
+Size: 5345
+SHA256sum: 9caf17ffc6b3596c51cefa9bd374bdc99bac6d0b9815b8e0c358000337c1b971
+Description:  This small Lua library provides a few functions to parse URL with
+ querystring and build new URL easily.
+
+Package: luci-app-adbyby-plus
+Version: 2.0
+Depends: libc, adbyby, uclient-fetch, ipset, dnsmasq-full
+Source: feeds/noodles1/luci-app-adbyby-plus
+SourceName: luci-app-adbyby-plus
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 9863
+Filename: luci-app-adbyby-plus_2.0_all.ipk
+Size: 10737
+SHA256sum: 3526789d8d6ebbfb2a6a5e5c6ce86908f9297c2589e7f0284a5d92e563f26584
+Description:  LuCI support for Adbyby
+
+Package: luci-app-alist
+Version: 1.0.11
+Depends: libc, alist, luci-compat
+Source: feeds/noodles1/luci-app-alist
+SourceName: luci-app-alist
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 7393
+Filename: luci-app-alist_1.0.11_all.ipk
+Size: 8172
+SHA256sum: e9f214524882616638fe913af372f82faa0a6ee5cd11d77ff205fa714bd28456
+Description:  LuCI support for alist
+
+Package: luci-app-aliyundrive-fuse
+Version: 0.1.14
+Depends: libc, aliyundrive-fuse
+Source: feeds/noodles1/luci-app-aliyundrive-fuse
+SourceName: luci-app-aliyundrive-fuse
+License: MIT
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 2451
+Filename: luci-app-aliyundrive-fuse_0.1.14_all.ipk
+Size: 3311
+SHA256sum: 3d7a0a77ead32311cb64ea33ab6337ad608646d2ae6d92d913bc6d8add14f7f9
+Description:  LuCI Support for aliyundrive-fuse
+
+Package: luci-app-arpbind
+Version: 1
+Depends: libc, ip-full
+Source: feeds/noodles1/luci-app-arpbind
+SourceName: luci-app-arpbind
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1862
+Filename: luci-app-arpbind_1_all.ipk
+Size: 2682
+SHA256sum: 8507814b0c4a32fbd1720dd03c70da211af22e409ff7b38e7f9bd411502c8e92
+Description:  ARP Binding
+
+Package: luci-app-autoreboot
+Version: 1.0
+Depends: libc, luci
+Source: feeds/noodles1/luci-app-autoreboot
+SourceName: luci-app-autoreboot
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1447
+Filename: luci-app-autoreboot_1.0_all.ipk
+Size: 2279
+SHA256sum: 28152f18a6ac5913cac4102628daad3778ba4cb8aece9b91187f35eb644624d4
+Description:  LuCI support for Scheduled Reboot
+
+Package: luci-app-bmtedge
+Version: 1.0.0-20230615
+Depends: libc, lsblk, docker, luci-lib-taskd
+Source: feeds/noodles1/luci-app-bmtedge
+SourceName: luci-app-bmtedge
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 36029
+Filename: luci-app-bmtedge_1.0.0-20230615_all.ipk
+Size: 37008
+SHA256sum: 6ef8f4d1da9111ec529fa07259e000b9ad86e7a097c941d58485444f45028efd
+Description:  LuCI support for bmtedge
+
+Package: luci-app-ddnsto
+Version: 3.0.4
+Depends: libc, ddnsto, block-mount
+Source: feeds/noodles1/luci-app-ddnsto
+SourceName: luci-app-ddnsto
+Section: luci
+SourceDateEpoch: 1692973593
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 75830
+Filename: luci-app-ddnsto_3.0.4_all.ipk
+Size: 76791
+SHA256sum: 984c505d30c96fd12e43a181be2251d851be519b70dc92e8c445849fef12abd1
+Description:  LuCI support for ddnsto
+
+Package: luci-app-diskman
+Version: v0.2.11
+Depends: libc, blkid, e2fsprogs, parted, smartmontools, btrfs-progs, lsblk, mdadm
+Source: feeds/noodles1/luci-app-diskman
+SourceName: luci-app-diskman
+License: AGPL-3.0
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 20580
+Filename: luci-app-diskman_v0.2.11_all.ipk
+Size: 21438
+SHA256sum: 7bb5550da2c13a7856d1d5466ca83fd4ca8da8828e1821da5bbd76a73732af74
+Description:  Disk Manager interface for LuCI
+
+Package: luci-app-easymesh
+Version: 2.0
+Depends: libc, kmod-cfg80211, batctl-default, kmod-batman-adv, wpad-openssl, dawn
+Source: feeds/noodles1/luci-app-easymesh
+SourceName: luci-app-easymesh
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3672
+Filename: luci-app-easymesh_2.0_all.ipk
+Size: 4543
+SHA256sum: 7daef82d6bc414cb85b4a1c0c5936d6f15109efae83e591fd13b846302b8471a
+Description:  LuCI Support for easymesh
+
+Package: luci-app-iptvhelper
+Version: 0.1.1
+Depends: libc, luci-compat, iptvhelper
+Source: feeds/noodles1/luci-app-iptvhelper
+SourceName: luci-app-iptvhelper
+License: GPL-3.0
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1238
+Filename: luci-app-iptvhelper_0.1.1_all.ipk
+Size: 2103
+SHA256sum: 109f9ab0ae694e650d9760c540181bc752743509b10977e21817a3090195a2d3
+Description:  LuCI support for iptvhelper
+
+Package: luci-app-kodexplorer
+Version: 1.2.1-20230108
+Depends: libc, lsblk, docker, luci-lib-taskd
+Source: feeds/noodles1/luci-app-kodexplorer
+SourceName: luci-app-kodexplorer
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3123
+Filename: luci-app-kodexplorer_1.2.1-20230108_all.ipk
+Size: 4004
+SHA256sum: 78a57ca164837cb53f6a67375b9211a00a39978a13e923510f926bde6ae4272c
+Description:  LuCI support for kodexplorer
+
+Package: luci-app-linkease
+Version: 2.1.12-2
+Depends: libc, linkease
+Source: feeds/noodles1/luci-app-linkease
+SourceName: luci-app-linkease
+Section: luci
+SourceDateEpoch: 1692061094
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1015373
+Filename: luci-app-linkease_2.1.12-2_all.ipk
+Size: 1014923
+SHA256sum: 99c49d1f1eabe1dfab24edb4375e4f324f2fcb13ac1e404f8e849ef5b594ad93
+Description:  LuCI support for linkease
+
+Package: luci-app-navidrome
+Version: 1.0.1-20230108
+Depends: libc, lsblk, docker, luci-lib-taskd
+Source: feeds/noodles1/luci-app-navidrome
+SourceName: luci-app-navidrome
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3128
+Filename: luci-app-navidrome_1.0.1-20230108_all.ipk
+Size: 4007
+SHA256sum: b9b3df0e91f82a8c159c5050cac9903de11d8afb4ca0b0a2a563073ef3288843
+Description:  LuCI support for Navidrome
+
+Package: luci-app-netdata
+Version: 1.0
+Depends: libc, netdata
+Source: feeds/noodles1/luci-app-netdata
+SourceName: luci-app-netdata
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 644
+Filename: luci-app-netdata_1.0_all.ipk
+Size: 1478
+SHA256sum: fbd80b384606b5c908b2e1051794de5210c2f45d0d1fb9097622d323eb6281ab
+Description:  LuCI support for Netdata
+
+Package: luci-app-oaf
+Version: 5.0.2
+Depends: libc, appfilter, kmod-oaf, luci-compat
+Source: feeds/noodles1/luci-app-oaf
+SourceName: luci-app-oaf
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 268572
+Filename: luci-app-oaf_5.0.2_all.ipk
+Size: 269520
+SHA256sum: 36b903482adb9cd8d50cfaf6c2d4980970bdb940ab5840a654fde693a30d5bb0
+Description:  Open App Filter Module
+
+Package: luci-app-onliner
+Version: 1.1
+Depends: libc, luci-app-wrtbwmon
+Source: feeds/noodles1/luci-app-onliner
+SourceName: luci-app-onliner
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 8061
+Filename: luci-app-onliner_1.1_all.ipk
+Size: 8902
+SHA256sum: c1b7d0458247b86009adee286a7f3d515da93650645d5755d97087d06e793f34
+Description:  LuCI support arp online
+
+Package: luci-app-openclash
+Version: 0.45.141-beta
+Depends: libc, dnsmasq-full, coreutils, coreutils-nohup, bash, curl, ca-bundle, ipset, ip-full, libcap, libcap-bin, libcap-bin, ruby, ruby-yaml, kmod-tun, unzip
+Source: feeds/noodles1/luci-app-openclash
+SourceName: luci-app-openclash
+Section: opt
+SourceDateEpoch: 1692766236
+Maintainer: vernesong
+Architecture: all
+Installed-Size: 4365266
+Filename: luci-app-openclash_0.45.141-beta_all.ipk
+Size: 4349465
+SHA256sum: b5e851809278459a80ad6f6dbfbdeb9e2ce2775786d9b22268890cf1bce3606e
+Description:  A LuCI support for clash
+
+Package: luci-app-passwall
+Version: 4.69-1
+Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, chinadns-ng, dns2socks, dns2tcp, ip-full, libuci-lua, lua, luci-compat, luci-lib-jsonc, microsocks, resolveip, tcping, unzip, haproxy, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocks-libev-ss-server, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, simple-obfs, trojan-go, trojan-plus, v2ray-core, v2ray-plugin, xray-core, xray-plugin
+Source: feeds/noodles1/luci-app-passwall
+SourceName: luci-app-passwall
+Section: luci
+SourceDateEpoch: 1693140026
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 971340
+Filename: luci-app-passwall_4.69-1_all.ipk
+Size: 971527
+SHA256sum: 845fd90da776177179222c1a60039c85891d2e9b21a24f5ae4d7871fccd2c6fe
+Description:  LuCI support for PassWall
+
+Package: luci-app-phtunnel
+Version: git-23.226.09779-d3ba630
+Depends: libc, cgi-io, curl, luci-compat, luci-lib-json, phtunnel
+Source: feeds/noodles1/luci-app-phtunnel
+SourceName: luci-app-phtunnel
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 4114
+Filename: luci-app-phtunnel_git-23.226.09779-d3ba630_all.ipk
+Size: 4992
+SHA256sum: b77d01fe348e37f05968e2cba9c4d60d5e121553121d57e63b41a344286a5076
+Description:  LuCI Support for the PHTunnel
+
+Package: luci-app-poweroff
+Version: 20200726
+Depends: libc
+Source: feeds/noodles1/luci-app-poweroff
+SourceName: luci-app-poweroff
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1261
+Filename: luci-app-poweroff_20200726_all.ipk
+Size: 2109
+SHA256sum: df5f119c8a24bd4c401638018262862d3831eb16f58b312cc2649b2c6be198bf
+Description:  LuCI Support of PowerOff Router
+
+Package: luci-app-pushbot
+Version: 3.60
+Depends: libc, iputils-arping, curl, jq
+Source: feeds/noodles1/luci-app-pushbot
+SourceName: luci-app-pushbot
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 27005
+Filename: luci-app-pushbot_3.60_all.ipk
+Size: 27958
+SHA256sum: 0d3938c352ba0c0e59a9fcbea64b707d3682d7d50a1db0d1b2fedb8ecba75d86
+Description:  LuCI support for Pushbot
+
+Package: luci-app-qbittorrent
+Version: 1.0
+Depends: libc, qBittorrent-static
+Source: feeds/noodles1/luci-app-qbittorrent
+SourceName: luci-app-qbittorrent
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 7616
+Filename: luci-app-qbittorrent_1.0_all.ipk
+Size: 8483
+SHA256sum: 4d6de5e7f38662bff94923c33b462afcc09bb9374e3f250efa69b4a2f86cd30a
+Description:  LuCI support for qBittorrent
+
+Package: luci-app-quickstart
+Version: 0.7.15
+Depends: libc, quickstart, luci-app-store
+Source: feeds/noodles1/luci-app-quickstart
+SourceName: luci-app-quickstart
+Section: luci
+SourceDateEpoch: 1692766236
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 308242
+Filename: luci-app-quickstart_0.7.15_all.ipk
+Size: 309123
+SHA256sum: ecf5e840ccbbb3016e15cc4139a0dc4280d361d754e58694dbe84ac89260d5b2
+Description:  LuCI support for quickstart 
+
+Package: luci-app-ramfree
+Version: 1.0
+Depends: libc
+Source: feeds/noodles1/luci-app-ramfree
+SourceName: luci-app-ramfree
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 427
+Filename: luci-app-ramfree_1.0_all.ipk
+Size: 1245
+SHA256sum: 2d2873277f8eccf85828b04cadd90b0c54dbe7c9acc9d20e785eeb9da0760b0d
+Description:  LuCI support for ramfree
+
+Package: luci-app-socat
+Version: 20200824
+Depends: libc, socat
+Source: feeds/noodles1/luci-app-socat
+SourceName: luci-app-socat
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3833
+Filename: luci-app-socat_20200824_all.ipk
+Size: 4697
+SHA256sum: a97cd099ab32b14c23b67e7b4be6629b06cb2520ab4aa17bcef8ff89ec701cda
+Description:  LuCI support for Socat
+
+Package: luci-app-ssr-plus
+Version: 187
+Depends: libc, coreutils, coreutils-base64, dns2socks, dns2tcp, dnsmasq-full, ipset, kmod-ipt-nat, ip-full, iptables, iptables-mod-tproxy, lua, lua-neturl, libuci-lua, microsocks, tcping, resolveip, shadowsocksr-libev-ssr-check, uclient-fetch, curl, xray-core, chinadns-ng, ipt2socks, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocks-libev-ss-server, simple-obfs, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, shadowsocksr-libev-ssr-server, trojan
+Source: feeds/noodles1/luci-app-ssr-plus
+SourceName: luci-app-ssr-plus
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 272445
+Filename: luci-app-ssr-plus_187_all.ipk
+Size: 272732
+SHA256sum: 7ade96419e4924393be8b7fdb34ecbbeb6d739b09ca0187a779eefbfb03c3178
+Description:  SS/SSR/V2Ray/Trojan/NaiveProxy/TUIC/Hysteria/Socks5/Tun LuCI interface
+
+Package: luci-app-timecontrol
+Version: 1.0
+Depends: libc
+Source: feeds/noodles1/luci-app-timecontrol
+SourceName: luci-app-timecontrol
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 2837
+Filename: luci-app-timecontrol_1.0_all.ipk
+Size: 3646
+SHA256sum: 36e492ae17e260c595f218f416d974a8c3736da2489971d9ecf8224935344ec7
+Description:  LuCI support for Time Control
+
+Package: luci-app-timewol
+Version: 1.0
+Depends: libc
+Source: feeds/noodles1/luci-app-timewol
+SourceName: luci-app-timewol
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 2850
+Filename: luci-app-timewol_1.0_all.ipk
+Size: 3653
+SHA256sum: cabfebde32ac205c6ad35bc339ab77cdf540987f5ea6c7fb19fcbf5b7b4a6c4f
+Description:  LuCI support for Timewol
+
+Package: luci-app-unblockmusic
+Version: 2.3.5
+Depends: libc, dnsmasq-full, ipset, uclient-fetch, UnblockNeteaseMusic-Go, UnblockNeteaseMusic
+Source: feeds/noodles1/luci-app-unblockmusic
+SourceName: luci-app-unblockmusic
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 7594
+Filename: luci-app-unblockmusic_2.3.5_all.ipk
+Size: 8551
+SHA256sum: f5b86213807f1d3997ab8583cf4350cfb6351b9cc50b4a851cfc9d67f4965e14
+Description:  LuCI support for Unblock NeteaseCloudMusic
+
+Package: luci-app-unblockneteasemusic
+Version: 2.14
+Depends: libc, dnsmasq-full, ipset, node
+Source: feeds/noodles1/luci-app-unblockneteasemusic
+SourceName: luci-app-unblockneteasemusic
+Section: luci
+SourceDateEpoch: 1692766236
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 11724
+Filename: luci-app-unblockneteasemusic_2.14_all.ipk
+Size: 12627
+SHA256sum: 3316af4168a6692072ee5fee33563c54319b6e723e6ce9702521ab53e830db81
+Description:  LuCI support for UnblockNeteaseMusic
+
+Package: luci-app-unishare
+Version: 1.0.0-4
+Depends: libc, unishare
+Source: feeds/noodles1/luci-app-unishare
+SourceName: luci-app-unishare
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 2097
+Filename: luci-app-unishare_1.0.0-4_all.ipk
+Size: 2930
+SHA256sum: 216e6282839a91c7f8555d719237f8ee2b116a6346fa81037d3ff25a3c8f3122
+Description:  LuCI for UniShare
+
+Package: luci-app-usb-printer
+Version: 1.0
+Depends: libc, p910nd, kmod-usb-printer
+Source: feeds/noodles1/luci-app-usb-printer
+SourceName: luci-app-usb-printer
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3324
+Filename: luci-app-usb-printer_1.0_all.ipk
+Size: 4170
+SHA256sum: c5163a321ac0cc690308f17e28ebe01dc12938b8aa85f37f2757058744879f17
+Description:  USB Printer Share via TCP/IP
+
+Package: luci-app-wechatpush
+Version: 3.3.2
+Depends: libc, iputils-arping, curl, jq, bash
+Source: feeds/noodles1/luci-app-wechatpush
+SourceName: luci-app-wechatpush
+Section: luci
+SourceDateEpoch: 1693140026
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 68899
+Filename: luci-app-wechatpush_3.3.2_all.ipk
+Size: 69990
+SHA256sum: 29220a23c21d6d29e5f65485463bd31bf839bad5de4535c24e2ce620ac3004ac
+Description:  LuCI support for wechatpush
+
+Package: luci-app-wolplus
+Version: 1.0
+Depends: libc, etherwake
+Source: feeds/noodles1/luci-app-wolplus
+SourceName: luci-app-wolplus
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 2249
+Filename: luci-app-wolplus_1.0_all.ipk
+Size: 3108
+SHA256sum: 1c126ed3c06530cdaa5216375565213fed26df2ebdc09288a844a5f0d35f3868
+Description:  LuCI support for wolplus From sundaqiang
+
+Package: luci-app-wrtbwmon
+Version: 2.0.12
+Depends: libc, wrtbwmon
+Source: feeds/noodles1/luci-app-wrtbwmon
+SourceName: luci-app-wrtbwmon
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 7910
+Filename: luci-app-wrtbwmon_2.0.12_all.ipk
+Size: 8810
+SHA256sum: 4f7932a33e44a752f9143460e21382353981850c7570326bcb26ce54be56da88
+Description:  A Luci module that uses wrtbwmon to track bandwidth usage
+
+Package: luci-app-wxedge
+Version: 1.1.3-20230614
+Depends: libc, lsblk, docker, luci-lib-taskd
+Source: feeds/noodles1/luci-app-wxedge
+SourceName: luci-app-wxedge
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3555
+Filename: luci-app-wxedge_1.1.3-20230614_all.ipk
+Size: 4421
+SHA256sum: 0fcdb1f042ac4e35dc20741568dec94f7637fbd2231285589e5f8b6297eb8766
+Description:  LuCI support for wxedge
+
+Package: luci-app-xunlei
+Version: 1.0.2-20230619
+Depends: libc, lsblk, docker, luci-lib-taskd
+Source: feeds/noodles1/luci-app-xunlei
+SourceName: luci-app-xunlei
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3233
+Filename: luci-app-xunlei_1.0.2-20230619_all.ipk
+Size: 4108
+SHA256sum: 234d875fdad41157505c4446002961079ed3bedd4a91702994a8e4a5340eb43d
+Description:  LuCI support for Xunlei
+
+Package: luci-app-zerotier
+Version: 1.0
+Depends: libc, zerotier
+Source: feeds/noodles1/luci-app-zerotier
+SourceName: luci-app-zerotier
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3333
+Filename: luci-app-zerotier_1.0_all.ipk
+Size: 4138
+SHA256sum: b5f705f148de5eb4dc0129ec91a4764199bcbd92d081e5e96a82e0075bea13e3
+Description:  LuCI for Zerotier
+
+Package: luci-i18n-adbyby-plus-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-adbyby-plus
+Source: feeds/noodles1/luci-app-adbyby-plus
+SourceName: luci-i18n-adbyby-plus-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 2306
+Filename: luci-i18n-adbyby-plus-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 3172
+SHA256sum: d04c32fc9eb4c4940abba8620096a33e87e3c54d3ddcd29a6e7e13fd57d49f16
+Description:  Translation for luci-app-adbyby-plus - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-alist-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-alist
+Source: feeds/noodles1/luci-app-alist
+SourceName: luci-i18n-alist-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 1298
+Filename: luci-i18n-alist-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 2154
+SHA256sum: d0aad4418194a6f7d96a8eaba360feda50eccc1c1d3db23e0b423ab045c82aa3
+Description:  Translation for luci-app-alist - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-aliyundrive-fuse-zh-cn
+Version: 0.1.14-1
+Depends: libc, luci-app-aliyundrive-fuse
+Source: feeds/noodles1/luci-app-aliyundrive-fuse
+SourceName: luci-i18n-aliyundrive-fuse-zh-cn
+License: MIT
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: messense <messense@icloud.com>
+Architecture: all
+Installed-Size: 914
+Filename: luci-i18n-aliyundrive-fuse-zh-cn_0.1.14-1_all.ipk
+Size: 1800
+SHA256sum: d1a44fe56047bdf4a118804e6ce753d98f5368b6c567d9af30cf43a23f93ded0
+Description:  Translation for luci-app-aliyundrive-fuse - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-arpbind-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-arpbind
+Source: feeds/noodles1/luci-app-arpbind
+SourceName: luci-i18n-arpbind-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 620
+Filename: luci-i18n-arpbind-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1461
+SHA256sum: 5a7d3436c7535afc561dfbda0e66b6565e8574edac243a49a3495f326b948c5e
+Description:  Translation for luci-app-arpbind - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-autoreboot-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-autoreboot
+Source: feeds/noodles1/luci-app-autoreboot
+SourceName: luci-i18n-autoreboot-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 533
+Filename: luci-i18n-autoreboot-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1385
+SHA256sum: af3cedadbde62978086223a728cc09ff42c089d8b28c99fbeb0bc0b828461200
+Description:  Translation for luci-app-autoreboot - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-bmtedge-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-bmtedge
+Source: feeds/noodles1/luci-app-bmtedge
+SourceName: luci-i18n-bmtedge-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 764
+Filename: luci-i18n-bmtedge-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1618
+SHA256sum: 83723d36eb887b6a9f2c944f7fa017a03461fd6a29099061a4ca613833cf17ec
+Description:  Translation for luci-app-bmtedge - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-ddnsto-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-ddnsto
+Source: feeds/noodles1/luci-app-ddnsto
+SourceName: luci-i18n-ddnsto-zh-cn
+Section: luci
+SourceDateEpoch: 1692973593
+Architecture: all
+Installed-Size: 670
+Filename: luci-i18n-ddnsto-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1520
+SHA256sum: b85ea4a15c283d3da1f7411ce91c13be7b9501cd8d89b6f8d437b6bdaedb1544
+Description:  Translation for luci-app-ddnsto - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-diskman-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-diskman
+Source: feeds/noodles1/luci-app-diskman
+SourceName: luci-i18n-diskman-zh-cn
+License: AGPL-3.0
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: lisaac <lisaac.cn@gmail.com>
+Architecture: all
+Installed-Size: 1888
+Filename: luci-i18n-diskman-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 2797
+SHA256sum: fd64fa7c43175ec85059f1b2a41406c3dd9cf8080fcfd6cfa69f69ed8f656c87
+Description:  Translation for luci-app-diskman - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-easymesh-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-easymesh
+Source: feeds/noodles1/luci-app-easymesh
+SourceName: luci-i18n-easymesh-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 928
+Filename: luci-i18n-easymesh-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1779
+SHA256sum: 45c016191486def123a31b48d18292f60ec2fca14d067bec4b440a802d3fe6a9
+Description:  Translation for luci-app-easymesh - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-iptvhelper-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-iptvhelper
+Source: feeds/noodles1/luci-app-iptvhelper
+SourceName: luci-i18n-iptvhelper-zh-cn
+License: GPL-3.0
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: Shun Li <riverscn@gmail.com>
+Architecture: all
+Installed-Size: 780
+Filename: luci-i18n-iptvhelper-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1684
+SHA256sum: 819d83096c530997d47c700ec8b927429f87d8e77073d743efabbecf3d5ad702
+Description:  Translation for luci-app-iptvhelper - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-kodexplorer-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-kodexplorer
+Source: feeds/noodles1/luci-app-kodexplorer
+SourceName: luci-i18n-kodexplorer-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 773
+Filename: luci-i18n-kodexplorer-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1626
+SHA256sum: 5a48bc76b8cb2fbf75637d7103ae177f17f51c647f56ec49ecf8cfd0416a3972
+Description:  Translation for luci-app-kodexplorer - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-linkease-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-linkease
+Source: feeds/noodles1/luci-app-linkease
+SourceName: luci-i18n-linkease-zh-cn
+Section: luci
+SourceDateEpoch: 1692061094
+Architecture: all
+Installed-Size: 831
+Filename: luci-i18n-linkease-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1688
+SHA256sum: f15f0b7966a1988537e72a22b58313fb6698dbe3569b46344b3c0382ade9d5f7
+Description:  Translation for luci-app-linkease - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-navidrome-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-navidrome
+Source: feeds/noodles1/luci-app-navidrome
+SourceName: luci-i18n-navidrome-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 763
+Filename: luci-i18n-navidrome-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1616
+SHA256sum: 66a442893a44e950500ede3182a3f35c4fb62db7fa062b70fbc6f8ca0296771b
+Description:  Translation for luci-app-navidrome - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-netdata-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-netdata
+Source: feeds/noodles1/luci-app-netdata
+SourceName: luci-i18n-netdata-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 416
+Filename: luci-i18n-netdata-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1261
+SHA256sum: a9df2d581bd53368f1e2360ffc32d61c461750adf2f347ddce135f378a11663b
+Description:  Translation for luci-app-netdata - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-oaf-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-oaf
+Source: feeds/noodles1/luci-app-oaf
+SourceName: luci-i18n-oaf-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 1776
+Filename: luci-i18n-oaf-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 2629
+SHA256sum: fe21803838ecd805f41b9b8063966c20fd3265ee9eeda7619dfcf20bd140d380
+Description:  Translation for luci-app-oaf - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-onliner-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-onliner
+Source: feeds/noodles1/luci-app-onliner
+SourceName: luci-i18n-onliner-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 501
+Filename: luci-i18n-onliner-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1348
+SHA256sum: b59387aef4f50a24a6347a8df57ad238ae461f934c189cf45b70b6cb8dc2c1c7
+Description:  Translation for luci-app-onliner - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-passwall-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-passwall
+Source: feeds/noodles1/luci-app-passwall
+SourceName: luci-i18n-passwall-zh-cn
+Section: luci
+SourceDateEpoch: 1693140026
+Architecture: all
+Installed-Size: 12034
+Filename: luci-i18n-passwall-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 12857
+SHA256sum: 7dcfc41b0aa2c083ceede977d708a265282e28b4b70590ab65b617ad6c3a0a44
+Description:  Translation for luci-app-passwall - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-phtunnel-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-phtunnel
+Source: feeds/noodles1/luci-app-phtunnel
+SourceName: luci-i18n-phtunnel-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 474
+Filename: luci-i18n-phtunnel-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1322
+SHA256sum: 13bb2fa9cafbdbf611a531693363794ef55640a58be5099848ca3dfab6cfe2dc
+Description:  Translation for luci-app-phtunnel - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-poweroff-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-poweroff
+Source: feeds/noodles1/luci-app-poweroff
+SourceName: luci-i18n-poweroff-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 674
+Filename: luci-i18n-poweroff-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1519
+SHA256sum: e1c9253e033525da642c3993dcf51bb0e63bf7abf97f7868027ebf00e1e76e83
+Description:  Translation for luci-app-poweroff - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-qbittorrent-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-qbittorrent
+Source: feeds/noodles1/luci-app-qbittorrent
+SourceName: luci-i18n-qbittorrent-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 4563
+Filename: luci-i18n-qbittorrent-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 5386
+SHA256sum: e5230e54a5482e140a7c21d952d4ddd2951513bd9a7108625a5aa46b30b1c655
+Description:  Translation for luci-app-qbittorrent - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-quickstart-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-quickstart
+Source: feeds/noodles1/luci-app-quickstart
+SourceName: luci-i18n-quickstart-zh-cn
+Section: luci
+SourceDateEpoch: 1692766236
+Architecture: all
+Installed-Size: 491
+Filename: luci-i18n-quickstart-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1336
+SHA256sum: ec46816ffd1b2ee78b9f4508598475430d50b9d4bb3b31c911d1bf7cb11517a9
+Description:  Translation for luci-app-quickstart - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-ramfree-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-ramfree
+Source: feeds/noodles1/luci-app-ramfree
+SourceName: luci-i18n-ramfree-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 422
+Filename: luci-i18n-ramfree-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1265
+SHA256sum: b2e72154fb76629a5cc3dbbb0d24fdadc3958d0afbd83a53b8bc2293a3b94dff
+Description:  Translation for luci-app-ramfree - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-socat-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-socat
+Source: feeds/noodles1/luci-app-socat
+SourceName: luci-i18n-socat-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: Lienol <lawlienol@gmail.com>
+Architecture: all
+Installed-Size: 888
+Filename: luci-i18n-socat-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1774
+SHA256sum: 39131beddd6a2e6ce85e2b696b4fd265b6d9356185a4d03c51cf73909352ff3e
+Description:  Translation for luci-app-socat - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-ssr-plus-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-ssr-plus
+Source: feeds/noodles1/luci-app-ssr-plus
+SourceName: luci-i18n-ssr-plus-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 6519
+Filename: luci-i18n-ssr-plus-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 7404
+SHA256sum: 2d1624ff99e02fbb72890e9e292cc16c6483c99b964b3ce8452c1733768849a4
+Description:  Translation for luci-app-ssr-plus - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-timecontrol-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-timecontrol
+Source: feeds/noodles1/luci-app-timecontrol
+SourceName: luci-i18n-timecontrol-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 660
+Filename: luci-i18n-timecontrol-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1504
+SHA256sum: 7e2fe4af48910e006aef4ab4e609253bbdd50f9962405b81b2f2a4bf644bfaf8
+Description:  Translation for luci-app-timecontrol - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-timewol-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-timewol
+Source: feeds/noodles1/luci-app-timewol
+SourceName: luci-i18n-timewol-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 414
+Filename: luci-i18n-timewol-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1257
+SHA256sum: 85cba071a05cd4013fa76a10dbb7d1e3ba338c6b1eea9a8fe294642b7333e578
+Description:  Translation for luci-app-timewol - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-unblockmusic-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-unblockmusic
+Source: feeds/noodles1/luci-app-unblockmusic
+SourceName: luci-i18n-unblockmusic-zh-cn
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: lean <coolsnowwolf@gmail.com>
+Architecture: all
+Installed-Size: 514
+Filename: luci-i18n-unblockmusic-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1409
+SHA256sum: c081d0f7258d889e79fb4dc32c608aba75706e7d4c365cf7815d44217b71c555
+Description:  Translation for luci-app-unblockmusic - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-unishare-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-unishare
+Source: feeds/noodles1/luci-app-unishare
+SourceName: luci-i18n-unishare-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: jjm2473 <jjm2473@gmail.com>
+Architecture: all
+Installed-Size: 1154
+Filename: luci-i18n-unishare-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 2030
+SHA256sum: a7e0a5006b8e1a8c09ca34ec75c05b0b62f842fd23b2572b800cda115f5661fc
+Description:  Translation for luci-app-unishare - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-usb-printer-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-usb-printer
+Source: feeds/noodles1/luci-app-usb-printer
+SourceName: luci-i18n-usb-printer-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 847
+Filename: luci-i18n-usb-printer-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1709
+SHA256sum: 43ca70a80f43db48444a466e094dd110773db21990e793d76b99b4a8b1180173
+Description:  Translation for luci-app-usb-printer - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-wechatpush-zh-cn
+Version: git-23.229.20563-6f5db5a
+Depends: libc, luci-app-wechatpush
+Source: feeds/noodles1/luci-app-wechatpush
+SourceName: luci-i18n-wechatpush-zh-cn
+Section: luci
+SourceDateEpoch: 1693140026
+Maintainer: tty228 <tty228@yeah.net>
+Architecture: all
+Installed-Size: 8267
+Filename: luci-i18n-wechatpush-zh-cn_git-23.229.20563-6f5db5a_all.ipk
+Size: 9147
+SHA256sum: 920c3b78348d4b2935a847db724b134e66d252821b4037244f34e9a90914201c
+Description:  Translation for luci-app-wechatpush - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-wolplus-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-wolplus
+Source: feeds/noodles1/luci-app-wolplus
+SourceName: luci-i18n-wolplus-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Maintainer: sundaqiang
+Architecture: all
+Installed-Size: 608
+Filename: luci-i18n-wolplus-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1476
+SHA256sum: 2b374f5275171fba1682f42fdf5bde2ae7ed3b0742fac5697e1047fa2c0300ba
+Description:  Translation for luci-app-wolplus - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-wrtbwmon-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-wrtbwmon
+Source: feeds/noodles1/luci-app-wrtbwmon
+SourceName: luci-i18n-wrtbwmon-zh-cn
+License: Apache-2.0
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 1533
+Filename: luci-i18n-wrtbwmon-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 2407
+SHA256sum: cbe121274beab781c0cabcffdedd0fcf9e31e4e35e4a6f3a3911d8b0d540144e
+Description:  Translation for luci-app-wrtbwmon - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-wxedge-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-wxedge
+Source: feeds/noodles1/luci-app-wxedge
+SourceName: luci-i18n-wxedge-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 679
+Filename: luci-i18n-wxedge-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1530
+SHA256sum: 8d20f2b9049d22d47c5b3d4a9889713d74467e572ae2032fb6f14b73799f0282
+Description:  Translation for luci-app-wxedge - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-xunlei-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-xunlei
+Source: feeds/noodles1/luci-app-xunlei
+SourceName: luci-i18n-xunlei-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 832
+Filename: luci-i18n-xunlei-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1691
+SHA256sum: 336c483354c845d969469353141496c28aee33e8e24d97b22263d4773aef791a
+Description:  Translation for luci-app-xunlei - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-zerotier-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-zerotier
+Source: feeds/noodles1/luci-app-zerotier
+SourceName: luci-i18n-zerotier-zh-cn
+Section: luci
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 796
+Filename: luci-i18n-zerotier-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1648
+SHA256sum: 75a3aa161b0503a4a24347f53a1a4ea1276beac99688b3f11cfc98009af124d8
+Description:  Translation for luci-app-zerotier - 简体中文 (Chinese Simplified)
+
+Package: microsocks
+Version: 1.0.3-1
+Depends: libc, libpthread
+Source: feeds/noodles1/microsocks
+SourceName: microsocks
+License: MIT
+LicenseFiles: COPYING
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: lean
+Architecture: x86_64
+Installed-Size: 5490
+Filename: microsocks_1.0.3-1_x86_64.ipk
+Size: 6305
+SHA256sum: b3fcce7533033d02c4e56d0f33ca36ab657bead53569c646bc7132ee1efe5e45
+Description:  A SOCKS5 service that you can run on your remote boxes to tunnel connections
+ through them, if for some reason SSH doesn't cut it for you.
+
+Package: qBittorrent-static
+Version: 4.5.2_v2.0.8-1
+Depends: libc
+Source: feeds/noodles1/qBittorrent-static
+SourceName: qBittorrent-static
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: x86_64
+Installed-Size: 28900625
+Filename: qBittorrent-static_4.5.2_v2.0.8-1_x86_64.ipk
+Size: 28727928
+SHA256sum: 21d96b1885426fc78bfcb1dde1d82afe853db94c227e8008a5355d3cd81ddce5
+Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that uses
+ libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
+ It aims to be a good alternative to all other bittorrent clients out
+ there. qBittorrent is fast, stable and provides unicode support as
+ well as many features.
+
+Package: quickstart
+Version: 0.7.15-1
+Depends: libc, shadow-utils, shadow-useradd, mount-utils, block-mount, lsblk, e2fsprogs, parted, smartmontools, smartd, mdadm, ip-full, ubus, uci, bash
+Source: feeds/noodles1/quickstart
+SourceName: quickstart
+Section: net
+SourceDateEpoch: 1692766236
+Architecture: x86_64
+Installed-Size: 3458063
+Filename: quickstart_0.7.15-1_x86_64.ipk
+Size: 3452734
+SHA256sum: 9ffe3187cc51b4a4451bd5e35d02ecfc189564824a044277cbc1a437baf3d9a4
+Description:  Quickstart is a dashboard & user guide
+
+Package: shadowsocksr-libev-ssr-check
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/noodles1/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-check
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: x86_64
+Installed-Size: 2393
+Filename: shadowsocksr-libev-ssr-check_2.5.6-9_x86_64.ipk
+Size: 3151
+SHA256sum: a3b25a2f35674c844cfd06498eab07421fbd63072253f907b8053e0fadc0b490
+Description:  shadowsocksr-libev ssr-check
+
+Package: shadowsocksr-libev-ssr-local
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/noodles1/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-local
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: x86_64
+Installed-Size: 63053
+Filename: shadowsocksr-libev-ssr-local_2.5.6-9_x86_64.ipk
+Size: 63931
+SHA256sum: 22a242f592336787ee164a467ad391625046c15d1680b46948af99b18f5b1bab
+Description:  shadowsocksr-libev ssr-local
+
+Package: shadowsocksr-libev-ssr-redir
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/noodles1/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-redir
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: x86_64
+Installed-Size: 56223
+Filename: shadowsocksr-libev-ssr-redir_2.5.6-9_x86_64.ipk
+Size: 57056
+SHA256sum: 2c838504df546479171e423235d55856de6d4b492936eeb557d2902f0ba4d1f1
+Description:  shadowsocksr-libev ssr-redir
+
+Package: shadowsocksr-libev-ssr-server
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/noodles1/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-server
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: x86_64
+Installed-Size: 66005
+Filename: shadowsocksr-libev-ssr-server_2.5.6-9_x86_64.ipk
+Size: 66860
+SHA256sum: dec194d7da150b573378ef6b5fb5df56d740c03bd0df75b7787655e6caa850c4
+Description:  shadowsocksr-libev ssr-server
+
+Package: simple-obfs
+Version: 0.0.5-1
+Depends: libc, libpthread, libev
+Source: feeds/noodles1/simple-obfs
+SourceName: simple-obfs
+License: GPL-3.0-or-later
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: x86_64
+Installed-Size: 30589
+Filename: simple-obfs_0.0.5-1_x86_64.ipk
+Size: 31383
+SHA256sum: cb92bd0991af6bdc598dfbece6b49f7d8041e16cd1c0fe0d4a44e2f17f87c22e
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: tcping
+Version: 0.3-1
+Depends: libc
+Source: feeds/noodles1/tcping
+SourceName: tcping
+License: GPL-2.0-only
+LicenseFiles: license.txt
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: x86_64
+Installed-Size: 3782
+Filename: tcping_0.3-1_x86_64.ipk
+Size: 4504
+SHA256sum: 0eceb6377012e418e15ca5e9dc128a1fe2e41f258a60f535e617c694955e0b3b
+Description:  tcping measures the latency of a tcp-connection
+
+Package: trojan-plus
+Version: 10.0.3-2
+Depends: libc, libpthread, libstdcpp6, libopenssl1.1, boost, boost-system, boost-program_options
+Source: feeds/noodles1/trojan-plus
+SourceName: trojan-plus
+License: GPL-3.0
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: Trojan-Plus-Group
+Architecture: x86_64
+Installed-Size: 451460
+Filename: trojan-plus_10.0.3-2_x86_64.ipk
+Size: 452313
+SHA256sum: 7224f8f29a90b3126c8fe6c63980a762ccdd147c532bb9fb37bc1d33f54f9879
+Description:  An unidentifiable mechanism that helps you bypass GFW. It's compatible with original trojan with experimental features.
+
+Package: trojan
+Version: 1.16.0-2
+Depends: libc, libpthread, libstdcpp6, libopenssl1.1, boost, boost-system, boost-program_options, boost-date_time
+Source: feeds/noodles1/trojan
+SourceName: trojan
+License: GPL-3.0
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: GreaterFire
+Architecture: x86_64
+Installed-Size: 331015
+Filename: trojan_1.16.0-2_x86_64.ipk
+Size: 331859
+SHA256sum: e2f0ffff4fc90d27b5cfa0d55c71b551e62b7888a9c83f6bd6d06b556ad44515
+Description:  An unidentifiable mechanism that helps you bypass GFW
+
+Package: unishare
+Version: 1.0.1-2
+Depends: libc, samba4-server, webdav2
+Source: feeds/noodles1/unishare
+SourceName: unishare
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: jjm2473 <jjm2473@gmail.com>
+Architecture: all
+Installed-Size: 2449
+Filename: unishare_1.0.1-2_all.ipk
+Size: 3234
+SHA256sum: c18d2ddb91c8dad9dfd5f5cb8f8c80abfe725aa053eae05b190418da8dba8726
+Description:  Configure samba, webdav (maybe more?) in one app
+
+Package: v2ray-plugin
+Version: 5.7.0-1
+Depends: libc, ca-bundle
+Source: feeds/noodles1/v2ray-plugin
+SourceName: v2ray-plugin
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: madeye <max.c.lv@gmail.com>
+Architecture: x86_64
+Installed-Size: 5248902
+Filename: v2ray-plugin_5.7.0-1_x86_64.ipk
+Size: 5237461
+SHA256sum: 07bcee24e13fa5a8cff6b32318180259cf784acc2932c068db03bb0d902b3d7c
+Description:  SIP003 plugin for shadowsocks, based on v2ray
+
+Package: webdav2
+Version: 4.3.1-1
+Depends: libc
+Source: feeds/noodles1/webdav2
+SourceName: webdav2
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: jjm2473 <jjm2473@gmail.com>
+Architecture: x86_64
+Installed-Size: 3622957
+Filename: webdav2_4.3.1-1_x86_64.ipk
+Size: 3616263
+SHA256sum: e2cf245710fceb3068b09f1c2b4967e0e226846daf168e7d34538bcd845a5817
+Description:  A Simple Go WebDAV server that supports acls.
+
+Package: wrtbwmon
+Version: 1.2.1-3
+Depends: libc, iptables
+Source: feeds/noodles1/wrtbwmon
+SourceName: wrtbwmon
+Section: net
+SourceDateEpoch: 1691980979
+Architecture: all
+Installed-Size: 7185
+Filename: wrtbwmon_1.2.1-3_all.ipk
+Size: 7968
+SHA256sum: 3c6b2d5e168ec07b53804ef44f6894a507d10dbd0a728d4eac1c1d15a626e33b
+Description:  An CERNET client daemon,
+ Most usually used in China collages.
+
+Package: xray-plugin
+Version: 1.8.3-1
+Depends: libc, ca-bundle
+Source: feeds/noodles1/xray-plugin
+SourceName: xray-plugin
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1691980979
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: x86_64
+Installed-Size: 6495445
+Filename: xray-plugin_1.8.3-1_x86_64.ipk
+Size: 6479878
+SHA256sum: d443faa84033e87e67a1024e6fac58c4e866730b8a3100c15b9df37029105045
+Description:  SIP003 plugin for Shadowsocks, based on Xray
+
