@@ -1,0 +1,189 @@
+Package: luci-app-argon-config
+Version: 0.9
+Depends: libc, luci-compat
+Source: feeds/third/luci-app-argon-config
+SourceName: luci-app-argon-config
+Section: luci
+SourceDateEpoch: 1650782942
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 3609
+Filename: luci-app-argon-config_0.9_all.ipk
+Size: 4466
+SHA256sum: 8ecf5b4ecb222d2f87613b1f9c624507d21b9c7f3370b8051e49e997ee9ea717
+Description:  LuCI page for Argon Config
+
+Package: luci-app-autotimeset
+Version: 2.0.2
+Depends: libc
+Source: feeds/third/luci-app-autotimeset
+SourceName: luci-app-autotimeset
+Section: luci
+SourceDateEpoch: 1650967174
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 6950
+Filename: luci-app-autotimeset_2.0.2_all.ipk
+Size: 7812
+SHA256sum: c3ddd0d0dffc9a575a866b1c61a3c4c079cf0f3ab3613b8516e43873d69aa197
+Description:  LuCI support for Scheduled Time setting
+
+Package: luci-app-cifs-mount
+Version: 1
+Depends: libc, mount-utils, kmod-fs-cifs, kmod-nls-utf8, davfs2
+Source: feeds/third/luci-app-cifs-mount
+SourceName: luci-app-cifs-mount
+Section: luci
+SourceDateEpoch: 1684901564
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 2473
+Filename: luci-app-cifs-mount_1_all.ipk
+Size: 3351
+SHA256sum: 235ff7d1f5d3053af8d52a5b38ebb513890b8bb016fb0011be59dc19065595ce
+Description:  LuCI for SMB/CIFS,WebDAV Mount
+
+Package: luci-app-filetransfer
+Version: 1
+Depends: libc, luci-lib-fs
+Source: feeds/third/luci-app-filetransfer
+SourceName: luci-app-filetransfer
+Section: luci
+SourceDateEpoch: 1684901564
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 2645
+Filename: luci-app-filetransfer_1_all.ipk
+Size: 3497
+SHA256sum: 1efd3608b1bc87d605da19e012c3742788b6f78928768cbf3d0a722b20b423c4
+Description:  LuCI page for IPK upload
+
+Package: luci-app-nfs
+Version: 1.1
+Depends: libc, nfs-utils, nfs-kernel-server, nfs-kernel-server-utils, mount-utils
+Source: feeds/third/luci-app-nfs
+SourceName: luci-app-nfs
+Section: luci
+SourceDateEpoch: 1684901564
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 1978
+Filename: luci-app-nfs_1.1_all.ipk
+Size: 2845
+SHA256sum: 22b5fe2817ecd3b58c9501e695b31313ffe7b06da750607363b05b6d23a8bd6c
+Description:  LuCI support for nfs
+
+Package: luci-i18n-argon-config-zh-cn
+Version: git-22.114.24542-d1474ba
+Depends: libc, luci-app-argon-config
+Source: feeds/third/luci-app-argon-config
+SourceName: luci-i18n-argon-config-zh-cn
+Section: luci
+SourceDateEpoch: 1650782942
+Maintainer: jerrykuku <jerrykuku@qq.com>
+Architecture: all
+Installed-Size: 1456
+Filename: luci-i18n-argon-config-zh-cn_git-22.114.24542-d1474ba_all.ipk
+Size: 2348
+SHA256sum: b59fcd7f41b21832f4cc04aae846290d0052ad1c35951bb9ab4b0941415ab1f1
+Description:  Translation for luci-app-argon-config - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-argon-zh-cn
+Version: git-23.088.28463-56b29d4
+Depends: libc, luci-theme-argon
+Source: feeds/third/luci-theme-argon
+SourceName: luci-i18n-argon-zh-cn
+Section: luci
+SourceDateEpoch: 1684901499
+Architecture: all
+Installed-Size: 471
+Filename: luci-i18n-argon-zh-cn_git-23.088.28463-56b29d4_all.ipk
+Size: 1316
+SHA256sum: 0bdf41a08d53bb17fb770d1897fc3da6780ccf3ef0042ce96a6dba5b60c88819
+Description:  Translation for luci-theme-argon - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-autotimeset-zh-cn
+Version: git-22.116.29801-c9e327f
+Depends: libc, luci-app-autotimeset
+Source: feeds/third/luci-app-autotimeset
+SourceName: luci-i18n-autotimeset-zh-cn
+Section: luci
+SourceDateEpoch: 1650967174
+Architecture: all
+Installed-Size: 1280
+Filename: luci-i18n-autotimeset-zh-cn_git-22.116.29801-c9e327f_all.ipk
+Size: 2141
+SHA256sum: d0ee5547436fcca3460878c2f234cba7c470faf788b17a8ab8c0ac0b8cfe7f56
+Description:  Translation for luci-app-autotimeset - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-cifs-mount-zh-cn
+Version: git-23.144.15164-4a0f27e
+Depends: libc, luci-app-cifs-mount
+Source: feeds/third/luci-app-cifs-mount
+SourceName: luci-i18n-cifs-mount-zh-cn
+Section: luci
+SourceDateEpoch: 1684901564
+Architecture: all
+Installed-Size: 800
+Filename: luci-i18n-cifs-mount-zh-cn_git-23.144.15164-4a0f27e_all.ipk
+Size: 1656
+SHA256sum: 5aa3f170c24b410edb9c414e642e5797a2d52623a507a77f5716e1f8899f3e39
+Description:  Translation for luci-app-cifs-mount - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-filetransfer-zh-cn
+Version: git-23.144.15164-4a0f27e
+Depends: libc, luci-app-filetransfer
+Source: feeds/third/luci-app-filetransfer
+SourceName: luci-i18n-filetransfer-zh-cn
+Section: luci
+SourceDateEpoch: 1684901564
+Architecture: all
+Installed-Size: 791
+Filename: luci-i18n-filetransfer-zh-cn_git-23.144.15164-4a0f27e_all.ipk
+Size: 1644
+SHA256sum: 574cfa00a6aa0451acff02aaa163479425a88183e06c41cc00bffb94488b4e38
+Description:  Translation for luci-app-filetransfer - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-nfs-zh-cn
+Version: git-23.144.15164-4a0f27e
+Depends: libc, luci-app-nfs
+Source: feeds/third/luci-app-nfs
+SourceName: luci-i18n-nfs-zh-cn
+Section: luci
+SourceDateEpoch: 1684901564
+Architecture: all
+Installed-Size: 611
+Filename: luci-i18n-nfs-zh-cn_git-23.144.15164-4a0f27e_all.ipk
+Size: 1446
+SHA256sum: 631dc4dd7fc3a37d6314d77a5a600b3dade87c2134a2c6928786d4b088266b9a
+Description:  Translation for luci-app-nfs - 简体中文 (Chinese Simplified)
+
+Package: luci-lib-fs
+Version: 1.0-1
+Depends: libc, luci-lib-nixio
+Source: feeds/third/luci-lib-fs
+SourceName: luci-lib-fs
+Section: lang
+SourceDateEpoch: 1684901564
+Architecture: all
+Installed-Size: 2345
+Filename: luci-lib-fs_1.0-1_all.ipk
+Size: 3019
+SHA256sum: 4f6f7563cb8c2bc98a224ff6cd043bedbf7766a21b4fae06f3e731aa324f681b
+Description:  luci-lib-fs
+
+Package: luci-theme-argon
+Version: 2.2.10.8
+Depends: libc, curl, jsonfilter
+Source: feeds/third/luci-theme-argon
+SourceName: luci-theme-argon
+Section: luci
+SourceDateEpoch: 1684901499
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 468421
+Filename: luci-theme-argon_2.2.10.8_all.ipk
+Size: 469024
+SHA256sum: b8ba884372a4ae11e08f8218ffc936e1b08ac00fdb5248c513b606409deded05
+Description:  Argon Theme
+

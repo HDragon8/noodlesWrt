@@ -1,0 +1,7 @@
+src-git-full packages https://github.com/jjm2473/packages.git^8d0fd7a67
+src-git-full luci https://github.com/jjm2473/luci.git^5d8cf0be63
+src-git-full routing https://git.openwrt.org/feed/routing.git^f47368c
+src-git-full telephony https://git.openwrt.org/feed/telephony.git^b222f4f
+src-git store https://github.com/linkease/istore.git^c9ee286
+src-git third https://github.com/jjm2473/openwrt-third.git^4a0f27e
+src-git noodles1 https://github.com/HDragon8/istore-noodles.git^b9f1021d

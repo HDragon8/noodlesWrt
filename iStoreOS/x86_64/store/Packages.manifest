@@ -1,0 +1,61 @@
+Package: luci-app-store
+Version: 0.1.14-1
+Depends: luci-lib-taskd (>=1.0.17), libc, curl, opkg, luci-lib-ipkg, tar, coreutils, coreutils-stat, libuci-lua, mount-utils, luci-lib-taskd
+Source: feeds/store/luci/luci-app-store
+SourceName: luci-app-store
+Section: luci
+SourceDateEpoch: 1690794022
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 93982
+Filename: luci-app-store_0.1.14-1_all.ipk
+Size: 95007
+SHA256sum: 187b45b978f5fbd2dc28c5cb0e38667c9d2122dcd0436ea1b30ae10ff9ba72cc
+Description:  luci-app-store is a ipk store developed by LinkEase team
+
+Package: luci-lib-taskd
+Version: 1.0.18
+Depends: taskd (>=1.0.3-1), libc, luci-lib-xterm, taskd
+Source: feeds/store/luci/luci-lib-taskd
+SourceName: luci-lib-taskd
+Section: luci
+SourceDateEpoch: 1692198139
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 6131
+Filename: luci-lib-taskd_1.0.18_all.ipk
+Size: 6975
+SHA256sum: 2de4b297bef48b3b3dc956176637eb1db04253e248c1f6839ff1e66035bb18e1
+Description:  Task library
+
+Package: luci-lib-xterm
+Version: 4.18.0
+Depends: libc
+Source: feeds/store/luci/luci-lib-xterm
+SourceName: luci-lib-xterm
+License: MIT
+Section: luci
+SourceDateEpoch: 1690794022
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 77226
+Filename: luci-lib-xterm_4.18.0_all.ipk
+Size: 78120
+SHA256sum: 3c311023400366a9d0e6ed3f8c9dd58d21259ac7c6c93a3edecef611747ff9e1
+Description:  Xterm.js library
+
+Package: taskd
+Version: 1.0.3-1
+Depends: libc, procd, script-utils, coreutils-stty
+Source: feeds/store/luci/taskd
+SourceName: taskd
+Section: utils
+SourceDateEpoch: 1690794022
+Maintainer: jjm2473 <jjm2473@gmail.com>
+Architecture: all
+Installed-Size: 1631
+Filename: taskd_1.0.3-1_all.ipk
+Size: 2406
+SHA256sum: 534e771eae924243746eba62ed64ce914aa332e0a01ca5bab91bc58ecdb7c7bb
+Description:  Simple Task Manager based on procd
+
