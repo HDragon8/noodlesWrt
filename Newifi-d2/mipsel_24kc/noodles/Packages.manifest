@@ -1,0 +1,503 @@
+Package: aliyundrive-webdav
+Version: 2.3.2-1
+Depends: libc
+Source: feeds/noodles/aliyundrive-webdav
+SourceName: aliyundrive-webdav
+License: MIT
+Section: multimedia
+SourceDateEpoch: 1693615638
+Maintainer: messense <messense@icloud.com>
+Architecture: mipsel_24kc
+Installed-Size: 3908848
+Filename: aliyundrive-webdav_2.3.2-1_mipsel_24kc.ipk
+Size: 3910124
+SHA256sum: 1e845c3713fcbfdba3360c15badc013d1de47310985e9add76bfa4ee832d36ee
+Description:  WebDAV server for AliyunDrive.
+
+Package: appfilter
+Version: 5.0.2-1
+Depends: libc, libubox20220927, libubus20220601, libuci20130104, libpthread, libjson-c5, libblobmsg-json20220927
+Source: feeds/noodles/open-app-filter
+SourceName: appfilter
+Section: Derry Apps
+SourceDateEpoch: 1693615638
+Architecture: mipsel_24kc
+Installed-Size: 16786
+Filename: appfilter_5.0.2-1_mipsel_24kc.ipk
+Size: 17567
+SHA256sum: c6afae7877ca9eca5ab1c1abc66746278ac630270d9167583b79bd87f99ef8b7
+Description:  open appfilter app
+
+Package: chinadns-ng
+Version: 2023.06.01-1
+Depends: libc, ipset
+Source: feeds/noodles/chinadns-ng
+SourceName: chinadns-ng
+License: AGPL-3.0-only
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1693615638
+Maintainer: pexcn <i@pexcn.me>
+Architecture: mipsel_24kc
+Installed-Size: 29806
+Filename: chinadns-ng_2023.06.01-1_mipsel_24kc.ipk
+Size: 30569
+SHA256sum: c35dd809ab8c2f2c2ef5936fa6d23188722011ccf0186bce060041e53ee503db
+Description:  ChinaDNS next generation, refactoring with epoll and ipset.
+
+Package: ddnsto
+Version: 3.0.4-mipsel-7
+Depends: libc
+Source: feeds/noodles/ddnsto
+SourceName: ddnsto
+Section: net
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 963661
+Filename: ddnsto_3.0.4-mipsel-7_all.ipk
+Size: 963501
+SHA256sum: 68bec48e52339a8d671ab1a193349bc864f11f28369538de7fac416307e58fd6
+Description:  DDNS.to is a reverse proxy
+
+Package: dns2socks
+Version: 2.1-2
+Depends: libc, libpthread
+Source: feeds/noodles/dns2socks
+SourceName: dns2socks
+License: BSD-3-Clause
+Section: net
+SourceDateEpoch: 1693615638
+Maintainer: ghostmaker
+Architecture: mipsel_24kc
+Installed-Size: 10772
+Filename: dns2socks_2.1-2_mipsel_24kc.ipk
+Size: 11559
+SHA256sum: d4f1822fab37792c69f6629dda442fc740bb6e13aba7238453e9a628ed0d5882
+Description:  This is a command line utility to resolve DNS requests via
+ a SOCKS tunnel like Tor or a HTTP proxy.
+
+Package: dns2tcp
+Version: 1.1.0-1
+Depends: libc
+Source: feeds/noodles/dns2tcp
+SourceName: dns2tcp
+License: AGPL-3.0-only
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1693615638
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: mipsel_24kc
+Installed-Size: 12743
+Filename: dns2tcp_1.1.0-1_mipsel_24kc.ipk
+Size: 13492
+SHA256sum: bd31154417eae0d63fd60bead0f5d82e7150e2d17fc49d105939159cb21aa207
+Description:  utility to convert dns query from udp to tcp
+
+Package: lua-neturl
+Version: 1.1-1-3
+Depends: libc, lua
+Source: feeds/noodles/lua-neturl
+SourceName: lua-neturl
+License: MIT
+Section: lang
+SourceDateEpoch: 1693615638
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: all
+Installed-Size: 4529
+Filename: lua-neturl_1.1-1-3_all.ipk
+Size: 5314
+SHA256sum: f4d1a731b94942622c1774c22bb7d54b19f6c2db50333689ca353809146cdda9
+Description:  This small Lua library provides a few functions to parse URL with
+ querystring and build new URL easily.
+
+Package: luci-app-aliyundrive-webdav
+Version: 2.3.2-1
+Depends: libc, aliyundrive-webdav
+Source: feeds/noodles/luci-app-aliyundrive-webdav
+SourceName: luci-app-aliyundrive-webdav
+License: MIT
+Section: luci
+SourceDateEpoch: 1693615638
+Maintainer: messense <messense@icloud.com>
+Architecture: all
+Installed-Size: 20610
+Filename: luci-app-aliyundrive-webdav_2.3.2-1_all.ipk
+Size: 21397
+SHA256sum: caf81b1eda27afc43bdc1541bddad115745e119174f7c6c4b166191cfd4942f3
+Description:  LuCI Support for aliyundrive-webdav
+
+Package: luci-app-argon-config
+Version: 0.9-20220424
+Depends: libc, luci-compat, luci-theme-argon, luci-lib-ipkg, luci-theme-argon
+Source: feeds/noodles/luci-app-argon-config
+SourceName: luci-app-argon-config
+Section: luci
+SourceDateEpoch: 1693615638
+Maintainer: jerrykuku <jerrykuku@qq.com>
+Architecture: all
+Installed-Size: 3609
+Filename: luci-app-argon-config_0.9-20220424_all.ipk
+Size: 4446
+SHA256sum: b1b5393566374f397fea931585a4669ec20418438a5962bfb5592d1c01a17b1e
+Description:  LuCI page for Argon Config
+
+Package: luci-app-autotimeset
+Version: 2.0.2-20230718
+Depends: libc
+Source: feeds/noodles/luci-app-autotimeset
+SourceName: luci-app-autotimeset
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 6948
+Filename: luci-app-autotimeset_2.0.2-20230718_all.ipk
+Size: 7759
+SHA256sum: da205d95aa6d7f9c8fb19e0a1f04d2ede41aea1edfaea1139b77f178f86f991a
+Description:  LuCI support for Scheduled Time setting
+
+Package: luci-app-ddnsto
+Version: 3.0.4-0
+Depends: libc, ddnsto, block-mount
+Source: feeds/noodles/luci-app-ddnsto
+SourceName: luci-app-ddnsto
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 75818
+Filename: luci-app-ddnsto_3.0.4-0_all.ipk
+Size: 76699
+SHA256sum: 12413f0390361e792bfcf06b17b78c7d3ff25eb59a926f32d5862eb82393acd9
+Description:  LuCI support for ddnsto
+
+Package: luci-app-oaf
+Version: 5.0.2-1
+Depends: libc, appfilter, kmod-oaf, luci-compat
+Source: feeds/noodles/luci-app-oaf
+SourceName: luci-app-oaf
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 269017
+Filename: luci-app-oaf_5.0.2-1_all.ipk
+Size: 269923
+SHA256sum: 17c9a2516de1a3f6794ce9b92c7f9b5b805e567e46cc98deae731496d149b35c
+Description:  Open App Filter Module
+
+Package: luci-app-onliner
+Version: 1.1-5
+Depends: libc, luci-app-wrtbwmon
+Source: feeds/noodles/luci-app-onliner
+SourceName: luci-app-onliner
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 8055
+Filename: luci-app-onliner_1.1-5_all.ipk
+Size: 8858
+SHA256sum: ade0682b312d25faf0e817e1d616118a4d5b8806d96d5c191d600bae537f4d8b
+Description:  LuCI support arp online
+
+Package: luci-app-ssr-plus
+Version: 187-1
+Depends: libc, coreutils, coreutils-base64, dns2socks, dns2tcp, dnsmasq-full, ipset, kmod-ipt-nat, ip-full, iptables, iptables-mod-tproxy, lua, lua-neturl, libuci-lua, microsocks, tcping, resolveip, shadowsocksr-libev-ssr-check, uclient-fetch, curl, xray-core, chinadns-ng, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocks-libev-ss-server, simple-obfs, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir
+Source: feeds/noodles/luci-app-ssr-plus
+SourceName: luci-app-ssr-plus
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 272423
+Filename: luci-app-ssr-plus_187-1_all.ipk
+Size: 272615
+SHA256sum: 0bc08a7a7a72ee8509d2d02afc1bc47b73c5969d65938abbf3787901773ec3fe
+Description:  SS/SSR/V2Ray/Trojan/NaiveProxy/TUIC/Hysteria/Socks5/Tun LuCI interface
+
+Package: luci-app-timecontrol
+Version: 1.1-20220505
+Depends: libc
+Source: feeds/noodles/luci-app-timecontrol
+SourceName: luci-app-timecontrol
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 2751
+Filename: luci-app-timecontrol_1.1-20220505_all.ipk
+Size: 3496
+SHA256sum: 0c57915c22196a370d51a0128849e0aab22226b90714f7321f8e022305d19a31
+Description:  LuCI support for Time Control
+
+Package: luci-app-wechatpush
+Version: 3.3.2-12
+Depends: libc, iputils-arping, curl, jq, bash
+Source: feeds/noodles/luci-app-wechatpush
+SourceName: luci-app-wechatpush
+Section: luci
+SourceDateEpoch: 1693615638
+Maintainer: tty228 <tty228@yeah.net>
+Architecture: all
+Installed-Size: 69787
+Filename: luci-app-wechatpush_3.3.2-12_all.ipk
+Size: 70798
+SHA256sum: aaa27683c860cfb4f3b443bb07f959ff1bba36debf88b5571602678409381231
+Description:  LuCI support for wechatpush
+
+Package: luci-i18n-aliyundrive-webdav-zh-cn
+Version: 2.3.2-1
+Depends: libc, luci-app-aliyundrive-webdav
+Source: feeds/noodles/luci-app-aliyundrive-webdav
+SourceName: luci-i18n-aliyundrive-webdav-zh-cn
+License: MIT
+Section: luci
+SourceDateEpoch: 1693615638
+Maintainer: messense <messense@icloud.com>
+Architecture: all
+Installed-Size: 1678
+Filename: luci-i18n-aliyundrive-webdav-zh-cn_2.3.2-1_all.ipk
+Size: 2552
+SHA256sum: 9219eff5b0eb6db99c621a5f51154c141a12ecf6aa22d87715156a8b293c52e3
+Description:  Translation for luci-app-aliyundrive-webdav - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-argon-config-zh-cn
+Version: 0.9-20220424
+Depends: libc, luci-app-argon-config
+Source: feeds/noodles/luci-app-argon-config
+SourceName: luci-i18n-argon-config-zh-cn
+Section: luci
+SourceDateEpoch: 1693615638
+Maintainer: jerrykuku <jerrykuku@qq.com>
+Architecture: all
+Installed-Size: 1603
+Filename: luci-i18n-argon-config-zh-cn_0.9-20220424_all.ipk
+Size: 2466
+SHA256sum: feea9a51974564909dd23d527bde4a147e25e846e05c37f4d33a4971f1eb240f
+Description:  Translation for luci-app-argon-config - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-autotimeset-zh-cn
+Version: 2.0.2-20230718
+Depends: libc, luci-app-autotimeset
+Source: feeds/noodles/luci-app-autotimeset
+SourceName: luci-i18n-autotimeset-zh-cn
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 1394
+Filename: luci-i18n-autotimeset-zh-cn_2.0.2-20230718_all.ipk
+Size: 2236
+SHA256sum: d5024afd128b07d699bd2984c437eef8dc80d75cff891232ac8129e9cbfacfa9
+Description:  Translation for luci-app-autotimeset - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-ddnsto-zh-cn
+Version: 3.0.4-0
+Depends: libc, luci-app-ddnsto
+Source: feeds/noodles/luci-app-ddnsto
+SourceName: luci-i18n-ddnsto-zh-cn
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 710
+Filename: luci-i18n-ddnsto-zh-cn_3.0.4-0_all.ipk
+Size: 1519
+SHA256sum: a7262b22b9b0abce70c8f2e54333acaf083b45a493e4a41b4f9f02fc0a41b53b
+Description:  Translation for luci-app-ddnsto - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-oaf-zh-cn
+Version: 5.0.2-1
+Depends: libc, luci-app-oaf
+Source: feeds/noodles/luci-app-oaf
+SourceName: luci-i18n-oaf-zh-cn
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 2074
+Filename: luci-i18n-oaf-zh-cn_5.0.2-1_all.ipk
+Size: 2900
+SHA256sum: 92131d0c6f08346a88af64b242965728d0904f32ab35f291b7aff39fd33d2808
+Description:  Translation for luci-app-oaf - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-onliner-zh-cn
+Version: 1.1-5
+Depends: libc, luci-app-onliner
+Source: feeds/noodles/luci-app-onliner
+SourceName: luci-i18n-onliner-zh-cn
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 515
+Filename: luci-i18n-onliner-zh-cn_1.1-5_all.ipk
+Size: 1330
+SHA256sum: 164f8b1314595fcbffa8d760f852bacea426da83697ca08448e324f26cf4628b
+Description:  Translation for luci-app-onliner - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-ssr-plus-zh-cn
+Version: 187-1
+Depends: libc, luci-app-ssr-plus
+Source: feeds/noodles/luci-app-ssr-plus
+SourceName: luci-i18n-ssr-plus-zh-cn
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 7732
+Filename: luci-i18n-ssr-plus-zh-cn_187-1_all.ipk
+Size: 8588
+SHA256sum: 1dfd534340100b692a1b7e163bfa5c37f91901dcec0c364bc66487b4f5481d7c
+Description:  Translation for luci-app-ssr-plus - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-timecontrol-zh-cn
+Version: 1.1-20220505
+Depends: libc, luci-app-timecontrol
+Source: feeds/noodles/luci-app-timecontrol
+SourceName: luci-i18n-timecontrol-zh-cn
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 760
+Filename: luci-i18n-timecontrol-zh-cn_1.1-20220505_all.ipk
+Size: 1574
+SHA256sum: 1a478a7cff2f80cebab1a448a7aeed47415f9c4eba1f2d244f9fa563ad07e92d
+Description:  Translation for luci-app-timecontrol - 简体中文 (Simplified Chinese)
+
+Package: luci-i18n-wechatpush-zh-cn
+Version: 3.3.2-12
+Depends: libc, luci-app-wechatpush
+Source: feeds/noodles/luci-app-wechatpush
+SourceName: luci-i18n-wechatpush-zh-cn
+Section: luci
+SourceDateEpoch: 1693615638
+Maintainer: tty228 <tty228@yeah.net>
+Architecture: all
+Installed-Size: 9199
+Filename: luci-i18n-wechatpush-zh-cn_3.3.2-12_all.ipk
+Size: 10046
+SHA256sum: 4b24b63d77e39e28fcb1d113049612bebd04de7e265e52555ab000ad3d3ef90f
+Description:  Translation for luci-app-wechatpush - 简体中文 (Simplified Chinese)
+
+Package: luci-theme-argon
+Version: 1.8.3-20230710
+Depends: libc, curl, jsonfilter
+Source: feeds/noodles/luci-theme-argon
+SourceName: luci-theme-argon
+Section: luci
+SourceDateEpoch: 1693615638
+Architecture: all
+Installed-Size: 424556
+Filename: luci-theme-argon_1.8.3-20230710_all.ipk
+Size: 425245
+SHA256sum: e32bad04059f641a7a722b8cbc7eefbd7a9d449c284143812a9e756d03f93ee5
+Description:  Argon Theme
+
+Package: microsocks
+Version: 1.0.3-1
+Depends: libc, libpthread
+Source: feeds/noodles/microsocks
+SourceName: microsocks
+License: MIT
+LicenseFiles: COPYING
+Section: net
+SourceDateEpoch: 1693615638
+Maintainer: lean
+Architecture: mipsel_24kc
+Installed-Size: 4781
+Filename: microsocks_1.0.3-1_mipsel_24kc.ipk
+Size: 5556
+SHA256sum: 83bac880e3cecd6411594329bfcc969f7ce9df39826d1172be77006ce4aa549c
+Description:  A SOCKS5 service that you can run on your remote boxes to tunnel connections
+ through them, if for some reason SSH doesn't cut it for you.
+
+Package: shadowsocksr-libev-ssr-check
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/noodles/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-check
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1693615638
+Architecture: mipsel_24kc
+Installed-Size: 2427
+Filename: shadowsocksr-libev-ssr-check_2.5.6-9_mipsel_24kc.ipk
+Size: 3146
+SHA256sum: ee90d45823ef82a6de1735322c48e73c760eb48764df380ee1de889eb9005dd0
+Description:  shadowsocksr-libev ssr-check
+
+Package: shadowsocksr-libev-ssr-local
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/noodles/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-local
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1693615638
+Architecture: mipsel_24kc
+Installed-Size: 57235
+Filename: shadowsocksr-libev-ssr-local_2.5.6-9_mipsel_24kc.ipk
+Size: 57785
+SHA256sum: 0263b03a1bd456bfe01d5843ec86b5ce397a6d4b7f1aa280308667f4fdd51f9d
+Description:  shadowsocksr-libev ssr-local
+
+Package: shadowsocksr-libev-ssr-redir
+Version: 2.5.6-9
+Depends: libc, libev, libsodium, libopenssl1.1, libpthread, libpcre, libudns, zlib
+Source: feeds/noodles/shadowsocksr-libev
+SourceName: shadowsocksr-libev-ssr-redir
+License: GPL-3.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1693615638
+Architecture: mipsel_24kc
+Installed-Size: 51053
+Filename: shadowsocksr-libev-ssr-redir_2.5.6-9_mipsel_24kc.ipk
+Size: 51621
+SHA256sum: 587a7b698e33e2899520b4c03ae3e8736450a73e087354e88e34b34b821d2816
+Description:  shadowsocksr-libev ssr-redir
+
+Package: simple-obfs
+Version: 0.0.5-1
+Depends: libc, libpthread, libev
+Source: feeds/noodles/simple-obfs
+SourceName: simple-obfs
+License: GPL-3.0-or-later
+LicenseFiles: COPYING LICENSE
+Section: net
+SourceDateEpoch: 1693615638
+Maintainer: Jian Chang <aa65535@live.com>
+Architecture: mipsel_24kc
+Installed-Size: 27786
+Filename: simple-obfs_0.0.5-1_mipsel_24kc.ipk
+Size: 28380
+SHA256sum: 259caa5d86942e5a7f6026820fa5a295e83e300b6d060a2fe25ff75f2eac4778
+Description:  Simple-obfs is a simple obfusacting tool, designed as plugin server of shadowsocks.
+
+Package: tcping
+Version: 0.3-1
+Depends: libc
+Source: feeds/noodles/tcping
+SourceName: tcping
+License: GPL-2.0-only
+LicenseFiles: license.txt
+Section: net
+SourceDateEpoch: 1693615638
+Architecture: mipsel_24kc
+Installed-Size: 3880
+Filename: tcping_0.3-1_mipsel_24kc.ipk
+Size: 4570
+SHA256sum: a3572ea78767888d28511cf47e7a90f4b484b8c9da08d987350293f76e2bb1f3
+Description:  tcping measures the latency of a tcp-connection
+
+Package: xray-core
+Version: 1.8.4-1
+Depends: libc, ca-bundle
+Source: feeds/noodles/xray-core
+SourceName: xray-core
+License: MPL-2.0
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1693615638
+Maintainer: Tianling Shen <cnsztl@immortalwrt.org>
+Architecture: mipsel_24kc
+Installed-Size: 8381098
+Filename: xray-core_1.8.4-1_mipsel_24kc.ipk
+Size: 8362024
+SHA256sum: c55a4714a91ac981839749fdffb37f139e790a6b7bbb2015b8714409a924e2c7
+Description:  Xray, Penetrates Everything. It helps you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+
