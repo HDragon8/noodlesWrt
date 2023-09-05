@@ -4,10 +4,10 @@ Depends: libc
 License: GPL-3.0
 Section: multimedia
 Architecture: x86_64
-Installed-Size: 2711970
+Installed-Size: 2711975
 Filename: UnblockNeteaseMusic-Go_0.2.13-1_x86_64.ipk
-Size: 2707184
-SHA256sum: 0436b6e23dc84f8bfa84ad5ddd8f5d9c93aea9968378f9ac414553617af35b4a
+Size: 2707112
+SHA256sum: 9c08570d3928a37f75713a9e483135e52151c7202e9c48612982722b3244ad41
 Description:  Revive Netease Cloud Music (Golang)
 
 Package: UnblockNeteaseMusic
@@ -34,15 +34,15 @@ SHA256sum: b76b004bbaecb60f835b155dacb0ec6a328b299fe74f1b250da676b321d06094
 Description:  Adbyby is a powerful adblock module to block ad,just like adblock.
 
 Package: alist
-Version: 3.26.0-2
+Version: 3.27.0-2
 Depends: libc, ca-bundle
 License: GPL-3.0
 Section: net
 Architecture: x86_64
-Installed-Size: 16892129
-Filename: alist_3.26.0-2_x86_64.ipk
-Size: 16819168
-SHA256sum: 2566299085264dce3554f409da5f3f2fcf997b49d0f2dafbd5da25d9f231b4ae
+Installed-Size: 16933106
+Filename: alist_3.27.0-2_x86_64.ipk
+Size: 16859495
+SHA256sum: 26936d9df2b738c7791b3ac70577a35ff3ca4453d723cf9fc72ce41f807a7fc9
 Description:  A file list program that supports multiple storage, powered by Gin and Solidjs.
 
 Package: aliyundrive-fuse
@@ -148,8 +148,8 @@ Section: luci
 Architecture: all
 Installed-Size: 3712
 Filename: iS-default-settings_1.2-1_all.ipk
-Size: 4422
-SHA256sum: f224de048758a9cfbe82a3488c1fc9dabe7b890ef4302716aab7afb0b860d468
+Size: 4424
+SHA256sum: 03aabc004b6de2dc7279239ba8a8ed6f0a6e1854f8f310a4c712a45f20d30742
 Description:  LuCI support for Default Settings
 
 Package: ipt2socks
@@ -189,14 +189,14 @@ SHA256sum: a78c92227d7d39df171773ceb0a339e02621ea226121abfad2cce3f8f0ab78ee
 Description:  IPv6 Helper and Dynamic Update he.net of ip
 
 Package: linkease
-Version: 1.2.3-x86_64-2
+Version: 1.2.5-x86_64-2
 Depends: libc, ffmpeg-remux
 Section: net
 Architecture: all
-Installed-Size: 16354868
-Filename: linkease_1.2.3-x86_64-2_all.ipk
-Size: 16345275
-SHA256sum: 5674ae9c953d3c9c9d7c9b7485d1fe072c28913fff0efdf9b31c863ce2e6c2dc
+Installed-Size: 16372571
+Filename: linkease_1.2.5-x86_64-2_all.ipk
+Size: 16362877
+SHA256sum: d2fe9e83c410309b36f34cb9c9a9a5bd43ab230661ba559d764990e4d1db2c3a
 Description:  LinkEase is a file cloud
 
 Package: lua-neturl
@@ -212,6 +212,17 @@ SHA256sum: 9caf17ffc6b3596c51cefa9bd374bdc99bac6d0b9815b8e0c358000337c1b971
 Description:  This small Lua library provides a few functions to parse URL with
  querystring and build new URL easily.
 
+Package: luci-app-accesscontrol
+Version: 1
+Depends: libc
+Section: luci
+Architecture: all
+Installed-Size: 2956
+Filename: luci-app-accesscontrol_1_all.ipk
+Size: 3768
+SHA256sum: ae4d0a1260ebd5b932ee3c328a46ba9462c6aa252424b54095701ed61868e860
+Description:  LuCI Access Control Configuration
+
 Package: luci-app-adbyby-plus
 Version: 2.0
 Depends: libc, adbyby, uclient-fetch, ipset, dnsmasq-full
@@ -222,6 +233,18 @@ Filename: luci-app-adbyby-plus_2.0_all.ipk
 Size: 10737
 SHA256sum: 3526789d8d6ebbfb2a6a5e5c6ce86908f9297c2589e7f0284a5d92e563f26584
 Description:  LuCI support for Adbyby
+
+Package: luci-app-aliddns
+Version: 0.3.0
+Depends: libc, openssl-util, curl
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 3667
+Filename: luci-app-aliddns_0.3.0_all.ipk
+Size: 4523
+SHA256sum: 0b3d0c4d49bc544e70b80dee1b48d3e467cec1b8b2c13388808960f876ddb1e3
+Description:  LuCI Support for ALiDDNS.
 
 Package: luci-app-alist
 Version: 1.0.11
@@ -402,15 +425,26 @@ Size: 4349465
 SHA256sum: b5e851809278459a80ad6f6dbfbdeb9e2ce2775786d9b22268890cf1bce3606e
 Description:  A LuCI support for clash
 
+Package: luci-app-passwall2
+Version: 1.19-6
+Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, ip-full, libuci-lua, lua, luci-compat, luci-lib-jsonc, resolveip, tcping, xray-core, v2ray-geoip, v2ray-geosite, unzip, haproxy, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, simple-obfs, v2ray-plugin
+Section: luci
+Architecture: all
+Installed-Size: 202902
+Filename: luci-app-passwall2_1.19-6_all.ipk
+Size: 203990
+SHA256sum: 3cfcd08e14d36012920793bf2fbaca70430f831344653f6953cd40e88eaad16c
+Description:  LuCI support for PassWall 2
+
 Package: luci-app-passwall
-Version: 4.69-1
+Version: 4.69-4
 Depends: libc, coreutils, coreutils-base64, coreutils-nohup, curl, chinadns-ng, dns2socks, dns2tcp, ip-full, libuci-lua, lua, luci-compat, luci-lib-jsonc, microsocks, resolveip, tcping, unzip, haproxy, shadowsocks-libev-ss-local, shadowsocks-libev-ss-redir, shadowsocks-libev-ss-server, shadowsocksr-libev-ssr-local, shadowsocksr-libev-ssr-redir, simple-obfs, trojan-go, trojan-plus, v2ray-core, v2ray-plugin, xray-core, xray-plugin
 Section: luci
 Architecture: all
-Installed-Size: 971340
-Filename: luci-app-passwall_4.69-1_all.ipk
-Size: 971527
-SHA256sum: 845fd90da776177179222c1a60039c85891d2e9b21a24f5ae4d7871fccd2c6fe
+Installed-Size: 972469
+Filename: luci-app-passwall_4.69-4_all.ipk
+Size: 972692
+SHA256sum: d246acb6af6ba2fb4216e8ba5a8260ced26a6fe67a032f723ab0f1e530a52862
 Description:  LuCI support for PassWall
 
 Package: luci-app-phtunnel
@@ -573,10 +607,10 @@ Version: 3.3.2
 Depends: libc, iputils-arping, curl, jq, bash
 Section: luci
 Architecture: all
-Installed-Size: 68899
+Installed-Size: 68893
 Filename: luci-app-wechatpush_3.3.2_all.ipk
-Size: 69990
-SHA256sum: 29220a23c21d6d29e5f65485463bd31bf839bad5de4535c24e2ce620ac3004ac
+Size: 69978
+SHA256sum: 2148ce6627f200781018eb5396cf6b4a13116a96f364287d12d914f6ca6cb31c
 Description:  LuCI support for wechatpush
 
 Package: luci-app-wolplus
@@ -635,6 +669,17 @@ Size: 4138
 SHA256sum: b5f705f148de5eb4dc0129ec91a4764199bcbd92d081e5e96a82e0075bea13e3
 Description:  LuCI for Zerotier
 
+Package: luci-i18n-accesscontrol-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-accesscontrol
+Section: luci
+Architecture: all
+Installed-Size: 837
+Filename: luci-i18n-accesscontrol-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1689
+SHA256sum: 61797d2ceef0bc751aca6fb1bb3aaabfdbc1469f47ea12eb21aa7f47e8dd2ec4
+Description:  Translation for luci-app-accesscontrol - 简体中文 (Chinese Simplified)
+
 Package: luci-i18n-adbyby-plus-zh-cn
 Version: git-23.226.09779-d3ba630
 Depends: libc, luci-app-adbyby-plus
@@ -645,6 +690,18 @@ Filename: luci-i18n-adbyby-plus-zh-cn_git-23.226.09779-d3ba630_all.ipk
 Size: 3172
 SHA256sum: d04c32fc9eb4c4940abba8620096a33e87e3c54d3ddcd29a6e7e13fd57d49f16
 Description:  Translation for luci-app-adbyby-plus - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-aliddns-zh-cn
+Version: git-23.226.09779-d3ba630
+Depends: libc, luci-app-aliddns
+License: MIT
+Section: luci
+Architecture: all
+Installed-Size: 776
+Filename: luci-i18n-aliddns-zh-cn_git-23.226.09779-d3ba630_all.ipk
+Size: 1689
+SHA256sum: 8f21fdc7817fba87c35d5f3ca5fa0774220c32920772ec1cc32e4de4209ec538
+Description:  Translation for luci-app-aliddns - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-alist-zh-cn
 Version: git-23.226.09779-d3ba630
@@ -815,15 +872,26 @@ SHA256sum: b59387aef4f50a24a6347a8df57ad238ae461f934c189cf45b70b6cb8dc2c1c7
 Description:  Translation for luci-app-onliner - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-passwall-zh-cn
-Version: git-23.226.09779-d3ba630
+Version: git-23.247.13503-0291e65
 Depends: libc, luci-app-passwall
 Section: luci
 Architecture: all
-Installed-Size: 12034
-Filename: luci-i18n-passwall-zh-cn_git-23.226.09779-d3ba630_all.ipk
-Size: 12857
-SHA256sum: 7dcfc41b0aa2c083ceede977d708a265282e28b4b70590ab65b617ad6c3a0a44
+Installed-Size: 11961
+Filename: luci-i18n-passwall-zh-cn_git-23.247.13503-0291e65_all.ipk
+Size: 12772
+SHA256sum: c966f428b05e1f9ac696eac3ab431bc7bff4e4c6f25daa7f6fcfcf656327b7ff
 Description:  Translation for luci-app-passwall - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-passwall2-zh-cn
+Version: git-23.244.48626-b9f1021
+Depends: libc, luci-app-passwall2
+Section: luci
+Architecture: all
+Installed-Size: 11042
+Filename: luci-i18n-passwall2-zh-cn_git-23.244.48626-b9f1021_all.ipk
+Size: 11907
+SHA256sum: 98f013e89c6ba1c181d170310ab8cf3d8a6d0430882aa490d4af868946d9e946
+Description:  Translation for luci-app-passwall2 - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-phtunnel-zh-cn
 Version: git-23.226.09779-d3ba630
@@ -963,10 +1031,10 @@ Version: git-23.229.20563-6f5db5a
 Depends: libc, luci-app-wechatpush
 Section: luci
 Architecture: all
-Installed-Size: 8267
+Installed-Size: 8266
 Filename: luci-i18n-wechatpush-zh-cn_git-23.229.20563-6f5db5a_all.ipk
-Size: 9147
-SHA256sum: 920c3b78348d4b2935a847db724b134e66d252821b4037244f34e9a90914201c
+Size: 9146
+SHA256sum: 1236a307b288b3c82eff618be62d1c3588ec65f4491db042bc35d0f3adefad78
 Description:  Translation for luci-app-wechatpush - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-wolplus-zh-cn
@@ -1054,14 +1122,14 @@ Description:  qBittorrent is a bittorrent client programmed in C++ / Qt that use
  well as many features.
 
 Package: quickstart
-Version: 0.7.15-1
+Version: 0.7.16-1
 Depends: libc, shadow-utils, shadow-useradd, mount-utils, block-mount, lsblk, e2fsprogs, parted, smartmontools, smartd, mdadm, ip-full, ubus, uci, bash
 Section: net
 Architecture: x86_64
-Installed-Size: 3458063
-Filename: quickstart_0.7.15-1_x86_64.ipk
-Size: 3452734
-SHA256sum: 9ffe3187cc51b4a4451bd5e35d02ecfc189564824a044277cbc1a437baf3d9a4
+Installed-Size: 3459735
+Filename: quickstart_0.7.16-1_x86_64.ipk
+Size: 3453747
+SHA256sum: c06a2c891a16e3ba04d10e377a0d02d1a2e2d126c77e420d269224e0cbec5783
 Description:  Quickstart is a dashboard & user guide
 
 Package: shadowsocksr-libev-ssr-check
@@ -1177,10 +1245,10 @@ Depends: libc, ca-bundle
 License: MIT
 Section: net
 Architecture: x86_64
-Installed-Size: 5248902
+Installed-Size: 5249053
 Filename: v2ray-plugin_5.7.0-1_x86_64.ipk
-Size: 5237461
-SHA256sum: 07bcee24e13fa5a8cff6b32318180259cf784acc2932c068db03bb0d902b3d7c
+Size: 5237690
+SHA256sum: 5503d1e2f3592d4c1da8cd9817c8758c806b7a4baef73094e3a898b48b610bc9
 Description:  SIP003 plugin for shadowsocks, based on v2ray
 
 Package: webdav2
@@ -1189,10 +1257,10 @@ Depends: libc
 License: MIT
 Section: net
 Architecture: x86_64
-Installed-Size: 3622957
+Installed-Size: 3623068
 Filename: webdav2_4.3.1-1_x86_64.ipk
-Size: 3616263
-SHA256sum: e2cf245710fceb3068b09f1c2b4967e0e226846daf168e7d34538bcd845a5817
+Size: 3616359
+SHA256sum: 662609cc3da622e1302eee8e51968708872100362aa20f98c6779b623575b8d1
 Description:  A Simple Go WebDAV server that supports acls.
 
 Package: wrtbwmon
@@ -1208,14 +1276,14 @@ Description:  An CERNET client daemon,
  Most usually used in China collages.
 
 Package: xray-plugin
-Version: 1.8.3-1
+Version: 1.8.4-1
 Depends: libc, ca-bundle
 License: MIT
 Section: net
 Architecture: x86_64
-Installed-Size: 6495445
-Filename: xray-plugin_1.8.3-1_x86_64.ipk
-Size: 6479878
-SHA256sum: d443faa84033e87e67a1024e6fac58c4e866730b8a3100c15b9df37029105045
+Installed-Size: 6547285
+Filename: xray-plugin_1.8.4-1_x86_64.ipk
+Size: 6531559
+SHA256sum: ec096b3d51c9c221750d356d2c1b6be0fe254dd163a0923971fff06501db1754
 Description:  SIP003 plugin for Shadowsocks, based on Xray
 

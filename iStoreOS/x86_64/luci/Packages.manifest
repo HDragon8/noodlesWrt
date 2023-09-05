@@ -113,6 +113,21 @@ Size: 2408
 SHA256sum: f8df2271c4dbdf62da6f6e62757746a4b8dd4437da4a63f98c385336db9b9951
 Description:  Hard Disk Idle Spin-Down module
 
+Package: luci-app-nlbwmon
+Version: git-23.013.73652-e29915d
+Depends: libc, luci-compat, nlbwmon
+Source: feeds/luci/applications/luci-app-nlbwmon
+SourceName: luci-app-nlbwmon
+Section: luci
+SourceDateEpoch: 1680282554
+Maintainer: OpenWrt LuCI community
+Architecture: all
+Installed-Size: 20941
+Filename: luci-app-nlbwmon_git-23.013.73652-e29915d_all.ipk
+Size: 21804
+SHA256sum: 2a726a42a312f819165d1715218b54155d5f375ab2e8c387d67448068358c2c4
+Description:  Netlink based bandwidth accounting
+
 Package: luci-app-opkg
 Version: git-23.103.23275-fe6d25d
 Depends: libc, opkg
@@ -340,6 +355,20 @@ Filename: luci-i18n-hd-idle-zh-cn_git-23.090.61754-f7f34d4_all.ipk
 Size: 1667
 SHA256sum: 6b264bb4b9a4e69127ab650b6a4566f288fec82ba8a305dee04ea3536526605d
 Description:  Translation for luci-app-hd-idle - 简体中文 (Chinese Simplified)
+
+Package: luci-i18n-nlbwmon-zh-cn
+Version: git-23.090.61754-f7f34d4
+Depends: libc, luci-app-nlbwmon
+Source: feeds/luci/applications/luci-app-nlbwmon
+SourceName: luci-i18n-nlbwmon-zh-cn
+Section: luci
+SourceDateEpoch: 1680282554
+Architecture: all
+Installed-Size: 3669
+Filename: luci-i18n-nlbwmon-zh-cn_git-23.090.61754-f7f34d4_all.ipk
+Size: 4499
+SHA256sum: 565f2e30b54b13b031cf16414d8a9c61a8be1a8f03e2678618c1145fa2488ba9
+Description:  Translation for luci-app-nlbwmon - 简体中文 (Chinese Simplified)
 
 Package: luci-i18n-opkg-zh-cn
 Version: git-23.093.43731-b672b90

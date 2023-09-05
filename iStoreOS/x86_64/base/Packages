@@ -31,10 +31,10 @@ Version: 20220411-1
 Depends: libc
 Section: firmware
 Architecture: x86_64
-Installed-Size: 705244
+Installed-Size: 705230
 Filename: bnx2-firmware_20220411-1_x86_64.ipk
-Size: 705374
-SHA256sum: fc075ab4e8795fb3c114b8e5f1f7c62e698f87cbf5c16ea264bd1f9af8cd4d17
+Size: 705379
+SHA256sum: fc6ee198ce912314512cac859a7d67c7512fa1e3a2dbf9265308240e9bab08ef
 Description:  Broadcom BCM5706/5708/5709/5716 firmware
 
 Package: busybox
@@ -46,10 +46,10 @@ Section: base
 CPE-ID: cpe:/a:busybox:busybox
 Essential: yes
 Architecture: x86_64
-Installed-Size: 232518
+Installed-Size: 232519
 Filename: busybox_1.35.0-5_x86_64.ipk
-Size: 233494
-SHA256sum: 6f05fa15bd4c6bf27d50e56c7d4fc99e1fa8a9b4e78892e4db3eff9e7422f16d
+Size: 233509
+SHA256sum: e4eb3fda0f49c0798cf4a763666249faafaab7128f4e61fa6623541da1dff960
 Description:  The Swiss Army Knife of embedded Linux.
  It slices, it dices, it makes Julian Fries.
 
@@ -743,6 +743,23 @@ Size: 16422
 SHA256sum: d0eae0e7131d7ba96912af62225c2aff7fd2fc4e21352ab4a41e5219da375eea
 Description:  This package contains a stripped down version of libnl
 
+Package: libopenssl-conf
+Version: 1.1.1t-3
+Depends: libc, libopenssl1.1
+License: OpenSSL
+Section: libs
+CPE-ID: cpe:/a:openssl:openssl
+Architecture: x86_64
+Installed-Size: 4373
+Filename: libopenssl-conf_1.1.1t-3_x86_64.ipk
+Size: 5374
+SHA256sum: 24a72a2a5848be744cc1c5f9b2698afd0f79f1c69d7d9483f98f230c087efd0f
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package installs the OpenSSL configuration file /etc/ssl/openssl.cnf.
+
 Package: libopenssl1.1
 Version: 1.1.1t-3
 Depends: libc
@@ -754,8 +771,8 @@ CPE-ID: cpe:/a:openssl:openssl
 Architecture: x86_64
 Installed-Size: 1528072
 Filename: libopenssl1.1_1.1.1t-3_x86_64.ipk
-Size: 1520942
-SHA256sum: 4e2e870275fb3e380a1a36e086a6496d3e5808ee91158ecbd80386a785598d5d
+Size: 1520984
+SHA256sum: 95446e85990d5e1cbe3a377ff8246114e34e10ae7d5b79051718a1cf79f96f01
 Description:  The OpenSSL Project is a collaborative effort to develop a robust,
  commercial-grade, full-featured, and Open Source toolkit implementing the
  Transport Layer Security (TLS) protocol as well as a full-strength
@@ -1107,6 +1124,23 @@ Description:  odhcpd is a daemon for serving and relaying IP management protocol
  DHCPv6,  prefix delegation and can be used to relay RA, DHCPv6 and NDP between
  routed (non-bridged) interfaces in case no delegated prefixes are available.
 
+Package: openssl-util
+Version: 1.1.1t-3
+Depends: libc, libopenssl1.1, libopenssl-conf
+License: OpenSSL
+Section: utils
+CPE-ID: cpe:/a:openssl:openssl
+Architecture: x86_64
+Installed-Size: 266307
+Filename: openssl-util_1.1.1t-3_x86_64.ipk
+Size: 265260
+SHA256sum: 51ed0e19c312d2b82ce4fb38bb458fccc819b03dbf122196414fc13603e2ae9c
+Description:  The OpenSSL Project is a collaborative effort to develop a robust,
+ commercial-grade, full-featured, and Open Source toolkit implementing the
+ Transport Layer Security (TLS) protocol as well as a full-strength
+ general-purpose cryptography library.
+ This package contains the OpenSSL command-line utility.
+
 Package: openwrt-keyring
 Version: 2022-03-25-62471e69-3
 Depends: libc
@@ -1220,10 +1254,10 @@ Version: 20220411-1
 Depends: libc
 Section: firmware
 Architecture: x86_64
-Installed-Size: 23824
+Installed-Size: 23823
 Filename: r8169-firmware_20220411-1_x86_64.ipk
-Size: 24528
-SHA256sum: 8a07bdabe39d7bc63271ef8447e08739db46d08f2a0186ccdaec4f1a8590c286
+Size: 24520
+SHA256sum: 1d595fae2ee8be0163bc2b43c205ffce3ce7ef7e2db75ef80f63e6ea5bb7e47a
 Description:  RealTek RTL8169 firmware
 
 Package: resize2fs
@@ -1425,10 +1459,10 @@ Depends: libc, libubox20220515, libblobmsg-json20220515, libjson-script20220515,
 License: ISC
 Section: net
 Architecture: x86_64
-Installed-Size: 29154
+Installed-Size: 29150
 Filename: uhttpd_2022-10-31-23977554-2_x86_64.ipk
-Size: 30068
-SHA256sum: e6d874db99ec97cdee794ad08c9f815c4cdb99408ddde4d02623d5e5b93197dd
+Size: 30072
+SHA256sum: 1f0cb3b8433aecdfaaab18fb686dfe26e4e96f06ccbdd0f7bbcfeb58942b77cb
 Description:  uHTTPd is a tiny single threaded HTTP server with TLS, CGI and Lua
  support. It is intended as a drop-in replacement for the Busybox
  HTTP daemon.

@@ -1,15 +1,15 @@
 Package: base-files
-Version: 1509-r20224-e0ee0f3701
+Version: 1510-r20227-ee3488bd62
 Depends: libc, netifd, jsonfilter, usign, openwrt-keyring, fstools, fwtool, blkid, mount-utils, e2fsprogs, tune2fs, resize2fs, attr, block-mount
 License: GPL-2.0
 Section: base
 Status: unknown hold not-installed
 Essential: yes
 Architecture: x86_64
-Installed-Size: 51906
-Filename: base-files_1509-r20224-e0ee0f3701_x86_64.ipk
-Size: 52978
-SHA256sum: b30c11784e1abee8ef55f48ee0cdbdac60a61ebe122988c35a584a86b432084e
+Installed-Size: 51889
+Filename: base-files_1510-r20227-ee3488bd62_x86_64.ipk
+Size: 52962
+SHA256sum: e95c8e64cccf113ed223c3ce97986a8fca936b9a3f6dab615e38dd91467ed532
 Description:  This package contains a base filesystem and system scripts for OpenWrt.
 
 Package: block-mount
@@ -216,6 +216,26 @@ Description:  Transparent proxy iptables extensions.
  Targets:
  - TPROXY
  
+
+Package: iptables-nft
+Version: 1.8.7-7
+Depends: libc, kmod-ipt-core, xtables-nft
+Provides: iptables
+Alternatives: 300:/usr/sbin/iptables:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/iptables-restore:/usr/sbin/xtables-nft-multi, 300:/usr/sbin/iptables-save:/usr/sbin/xtables-nft-multi
+License: GPL-2.0
+Section: net
+CPE-ID: cpe:/a:netfilter_core_team:iptables
+Architecture: x86_64
+Installed-Size: 247
+Filename: iptables-nft_1.8.7-7_x86_64.ipk
+Size: 1082
+SHA256sum: a5220b468bde50128ab0af6890d3614bfde9b5ad107111e0ff3424a3cc790c20
+Description:  Extra iptables nftables nft binaries.
+ iptables-nft
+ iptables-nft-restore
+ iptables-nft-save
+ iptables-translate
+ iptables-restore-translate
 
 Package: iptables-zz-legacy
 Version: 1.8.7-7
